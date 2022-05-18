@@ -1,0 +1,4 @@
+baseURL = 'https://brandonharvey.io/'
+languageCode = 'en-us'
+title = 'Brandon Harvey, Los Angeles, CA'
+theme = "anatole"
