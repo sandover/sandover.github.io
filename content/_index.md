@@ -4,7 +4,7 @@ date: 2022-05-18T11:29:03-07:00
 draft: false
 ---
 
-# selected projects and products
+# portfolio
 
 &nbsp;
 
@@ -25,11 +25,11 @@ In addition to making measurable improvements in the usability of the core produ
 &nbsp;
 
 ---
-# oblong industries :: client solutions division
+# oblong industries :: client solutions
 
 As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics in 100-million-pixel physical environments led to attention and awards such as a 2018 UX Design Award for the “IBM Watson Experience Centers”.  
 
-I played the roles of chief technical architect, primary client point of contact, project manager, and team lead.
+After starting as an engineer on the team, I eventually played the roles of chief technical architect, primary client point of contact, project manager, and team lead.
 
 ![warehouse 1](images/warehouse-1.jpg)
 ![warehouse 2](images/warehouse-2.jpg)
@@ -69,21 +69,21 @@ Most client work can't be shared here, but these videos give insight into the te
 <!-- {{< vimeo 553868286 >}}  -->
 <!-- flycity  -->
 {{< vimeo 554094766 >}} 
-<!-- botty mc botface -->
-{{< vimeo 553749883 >}} 
+<!-- bands -->
+{{< vimeo 554106976 >}}
 <!-- brain -->
 {{< vimeo 553839256 >}}
 {{< vimeo 553839214 >}} 
 <!-- seismo  -->
 {{< vimeo 410015034 >}} 
-<!-- bands -->
-{{< vimeo 554106976 >}}
 <!-- TED talks -->
 {{< vimeo 553867938 >}} 
 {{< vimeo 554104942 >}}
+<!-- botty mc botface -->
+{{< vimeo 553749883 >}} 
 <!-- text flow -->
 <!-- {{< vimeo 552243800 >}} -->
-<!-- McKL -->
+<!-- McK -->
 {{< vimeo 554158410 >}}
 
 &nbsp;
