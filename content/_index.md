@@ -29,9 +29,9 @@ In addition to making measurable improvements in the usability of the core produ
 ---
 # oblong industries :: client solutions
 
-As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics in 100-million-pixel physical environments led to attention and awards such as a 2018 UX Design Award for the “IBM Watson Experience Centers”.  
+As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics 100 million pixels at a time led to attention, awards, and fruitful long-term relationships with happy clients.
 
-After starting as an engineer on the team, I eventually played the roles of chief technical architect, primary client point of contact, project manager, and team lead.
+After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, project manager, and team lead.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
@@ -97,20 +97,18 @@ Most client work can't be shared here, but these videos give insight into the te
 ---
 # oblong industries :: greenhouse sdk (2012-2018)
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offering more approachable abstractions and quicker time-to-joy. It was released to the public at greenhouse.oblong.com; and was heavily used within the Oblong Client Solutions group to execute production-quality work for over 5 years.
+I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Oblong Client Solutions group to execute production-quality work for over 5 years.
 
 {{< vimeo 553841461 >}} 
 
 {{< vimeo 553837636 >}}  
-
-Internet archive of the Greenhouse SDK site: https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/ 
 
 &nbsp;
 
 &nbsp;
 
 ---
-# oblong industries :: saudi aramco (2010-2011)
+# oblong industries :: saudi aramco (2010-2012)
 
 Using Oblong's g-speak software platform, we created a geology visualization application which could be controlled by glove interactions in free space, by touchscreen, by mobile phone, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
 
@@ -122,7 +120,7 @@ Using Oblong's g-speak software platform, we created a geology visualization app
 
 
 ---
-# accenture :: interactive wall (2004-2006)
+# accenture :: interactive wall (2004-2007)
 
 "The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These remained operational for nearly 10 years after their debut. 
 
