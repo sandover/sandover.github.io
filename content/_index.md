@@ -46,9 +46,9 @@ disaster recovery {{< vimeo 554046018 >}}
 ## Accenture Interactive Wall (2004-2006)
 
 ### Publications & coverage
-- *New Accenture Technology Lands at O’Hare International Airport*, Accenture press release, 2006 https://newsroom.accenture.com/news/new-accenture-technology-lands-at-ohare-international-airport.htm 
 - *O'Hare Gets Interactive Screen*, Wired, 2006 https://www.wired.com/2006/05/ohare-gets-inte/ 
 - *Accenture Pushes the Interactive Wall*, ZDNet, 2006 https://www.zdnet.com/pictures/photos-accenture-pushes-the-interactive-wall/
+- *New Accenture Technology Lands at O’Hare International Airport*, Accenture press release, 2006 https://newsroom.accenture.com/news/new-accenture-technology-lands-at-ohare-international-airport.htm 
 - *Minority Report Touch Screen Now Available*, The Genre Traveler, 2006 https://www.thegenretraveler.com/sci-fi/minority-report-touch-screen-now-available/ 
 - *Accenture's Serious Games*, 2009 https://www.elianealhadeff.com/2009/10/accentures-serious-games.html
 - HCI research at Accenture Technology Labs: https://dl.acm.org/doi/10.1145/1358628.1358901
