@@ -4,7 +4,7 @@ date: 2022-05-18T11:29:03-07:00
 draft: false
 ---
 
-# selected projects and products
+## SELECTED PROJECTS AND PRODUCTS
 
 ## IBM Watson 
 {{< vimeo 410471801 >}} 

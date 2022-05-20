@@ -1,32 +1,101 @@
 
+body.theme--dark {
+  --chr-def-color: #f8f8f2;
+  --chr-def-bg-color: #272822;
+  --chr-err-color: #960050;
+  --chr-err-bg-color: #1e0010;
+  --chr-hl-bg-color: #ffffcc;
+  --chr-lnt-color: #7f7f7f;
+  --chr-ln-color: #7f7f7f;
+  --chr-k-color: #66d9ef;
+  --chr-kc-color: #66d9ef;
+  --chr-kd-color: #66d9ef;
+  --chr-kn-color: #f92672;
+  --chr-kp-color: #66d9ef;
+  --chr-kr-color: #66d9ef;
+  --chr-kt-color: #66d9ef;
+  --chr-na-color: #a6e22e;
+  --chr-nc-color: #a6e22e;
+  --chr-no-color: #66d9ef;
+  --chr-nd-color: #a6e22e;
+  --chr-ne-color: #a6e22e;
+  --chr-nf-color: #a6e22e;
+  --chr-nx-color: #a6e22e;
+  --chr-nt-color: #f92672;
+  --chr-l-color: #ae81ff;
+  --chr-ld-color: #e6db74;
+  --chr-s-color: #e6db74;
+  --chr-sa-color: #e6db74;
+  --chr-sb-color: #e6db74;
+  --chr-sc-color: #e6db74;
+  --chr-dl-color: #e6db74;
+  --chr-sd-color: #e6db74;
+  --chr-s2-color: #e6db74;
+  --chr-se-color: #ae81ff;
+  --chr-sh-color: #e6db74;
+  --chr-si-color: #e6db74;
+  --chr-sx-color: #e6db74;
+  --chr-sr-color: #e6db74;
+  --chr-s1-color: #e6db74;
+  --chr-ss-color: #e6db74;
+  --chr-m-color: #ae81ff;
+  --chr-mb-color: #ae81ff;
+  --chr-mf-color: #ae81ff;
+  --chr-mh-color: #ae81ff;
+  --chr-mi-color: #ae81ff;
+  --chr-il-color: #ae81ff;
+  --chr-mo-color: #ae81ff;
+  --chr-o-color: #f92672;
+  --chr-ow-color: #f92672;
+  --chr-p-color: #f8f8f2;
+  --chr-c-color: #75715e;
+  --chr-ch-color: #75715e;
+  --chr-cm-color: #75715e;
+  --chr-c1-color: #75715e;
+  --chr-cs-color: #75715e;
+  --chr-cp-color: #75715e;
+  --chr-cpf-color: #75715e;
+  --chr-gd-color: #f92672;
+  --chr-gi-color: #a6e22e;
+  --chr-gu-color: #75715e;
+}
 .body.theme--dark {
   color: #93a1a1;
-  background-color: #152028;
+  background-color: #021018;
 }
 
-/* inconsolata-regular - latin */
-@font-face {
-  font-family: 'Inconsolata';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/inconsolata-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/inconsolata-v30-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
+/* default: #152028;
+sublime text backing 1: #021018
+sublime text backing 2: #011620 */
 
 * {
-  font-family: Inconsolata;
+  font-family: Jura;
   font-size: 1.6rem;
 }
 
 .sidebar__introduction-title a {
   font-family: Michroma;
-  font-size: 2.0rem;
+  font-size: 2.5rem;
 }
-
 .post__content h1 {
   font-family: Michroma;
   font-size: 3.6rem;
   letter-spacing: 1px;
   line-height: 1;
 }
+
+.post__content h2 {
+  font-family: Michroma;
+  font-size: 2.2rem;
+  /* letter-spacing: 1px; */
+  /* line-height: 1; */
+}
+
+.post__content h3 {
+  font-family: Michroma;
+  font-size: 2.0=rem;
+  /* letter-spacing: 1px; */
+  /* line-height: 1; */
+}
+
+/* Jura, Michroma */

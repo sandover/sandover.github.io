@@ -7,12 +7,12 @@ enableEmoji = true
 [params]
 title = "Brandon Harvey"
 # author = "Brandon Harvey"
-description = """
-immersive & spatial innovator
-product leader
-people leader
-engineer and architect
-"""
+# description = """
+# immersive & spatial innovator
+# product leader
+# people leader
+# engineer and architect
+# """
 # profilePicture = "images/glitch-crab.png"
 profilePicture = "svg/sun-solid.svg"
 displayMode = "dark"
@@ -25,7 +25,6 @@ singleDateFormat = "2006"
 indexDateFormat = "2006"
 listDateFormat = "Jan 2"
 customCss = ["css/custom.css", "css/styles.css"]
-# googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 googleFonts = ["Jura", "Michroma", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 reversepagetitle = true
 
