@@ -59,40 +59,48 @@ body.theme--dark {
   --chr-gi-color: #a6e22e;
   --chr-gu-color: #75715e;
 }
-.body.theme--dark {
+/* .body.theme--dark {
   color: #93a1a1;
   background-color: #021018;
 }
+
+.nav {
+  background-color: #021018;
+} */
 
 /* default: #152028;
 sublime text backing 1: #021018
 sublime text backing 2: #011620 */
 
 * {
-  font-family: Jura;
+  /* font-family: 'MaisonNeue', sans-serif; */
+  font-family: 'Inconsolata';
   font-size: 1.6rem;
 }
 
 .sidebar__introduction-title a {
-  font-family: Michroma;
+  color: #eee;
+  font-family: 'Michroma';
   font-size: 2.5rem;
 }
 .post__content h1 {
-  font-family: Michroma;
-  font-size: 3.6rem;
-  letter-spacing: 1px;
+  font-family: 'Michroma';
+  font-size: 2.8rem;
+  /* letter-spacing: 1px; */
   line-height: 1;
 }
 
 .post__content h2 {
-  font-family: Michroma;
+  font-family: 'Inconsolata';
+  /* font-family: 'Michroma'; */
   font-size: 2.2rem;
   /* letter-spacing: 1px; */
   /* line-height: 1; */
 }
 
 .post__content h3 {
-  font-family: Michroma;
+  font-family: 'Noto Sans';
+  /* font-family: 'MaisonNeue', sans-serif; */
   font-size: 2.0=rem;
   /* letter-spacing: 1px; */
   /* line-height: 1; */

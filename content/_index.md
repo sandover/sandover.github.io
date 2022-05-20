@@ -4,11 +4,18 @@ date: 2022-05-18T11:29:03-07:00
 draft: false
 ---
 
-## SELECTED PROJECTS AND PRODUCTS
+# selected projects and products
+
+&nbsp;
 
 ## IBM Watson 
 {{< vimeo 410471801 >}} 
 disaster recovery {{< vimeo 554046018 >}} 
+
+&nbsp;
+
+---
+
 
 ## prototyping
 <!-- pixel manifold  -->
@@ -33,12 +40,12 @@ disaster recovery {{< vimeo 554046018 >}}
 <!-- TED talks -->
 {{< vimeo 552243800 >}}
 
-## McKinsey 
+<!-- ## McKinsey 
 {{< vimeo 554158410 >}}
 
 ## greenhouse sdk 
 {{< vimeo 553841461 >}} 
-{{< vimeo 553837636 >}}  
+{{< vimeo 553837636 >}}   -->
 
 ## Saudi Aramco
 
