@@ -73,9 +73,9 @@ sublime text backing 1: #021018
 sublime text backing 2: #011620 */
 
 * {
-  /* font-family: 'MaisonNeue', sans-serif; */
-  font-family: 'Inconsolata';
-  font-size: 1.6rem;
+  font-family: 'MaisonNeue', sans-serif;
+  /* font-family: 'Inconsolata'; */
+  font-size: 1.7rem;
 }
 
 .sidebar__introduction-title a {
@@ -91,17 +91,15 @@ sublime text backing 2: #011620 */
 }
 
 .post__content h2 {
-  font-family: 'Inconsolata';
-  /* font-family: 'Michroma'; */
-  font-size: 2.2rem;
+  font-family: 'Michroma';
+  font-size: 2.1rem;
   /* letter-spacing: 1px; */
   /* line-height: 1; */
 }
 
 .post__content h3 {
-  font-family: 'Noto Sans';
-  /* font-family: 'MaisonNeue', sans-serif; */
-  font-size: 2.0=rem;
+  font-family: 'Michroma';
+  font-size: 1.6rem;
   /* letter-spacing: 1px; */
   /* line-height: 1; */
 }

@@ -8,7 +8,22 @@ draft: false
 
 &nbsp;
 
-## IBM Watson 
+As a **Product Manager for Mezzanine**, I owned the user experience of a pioneering immersive meeting environment, which enabled any team to bind remote rooms together and work as though side by side. Mezzanine rooms found a market with an extensive list of Fortune 500 customers
+and featured innovative forms of interaction unique in its product category.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+As **Director of Engineering for Oblong's Client Solutions division**, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics in 100-million-pixel physical environments led to attention and awards such as a 2018 UX Design Award for the “IBM Watson Experience Centers”.  
+
+I played the roles of chief technical architect, primary client point of contact, project manager, and team lead.
+
+&nbsp;
+
+## IBM Watson Experience Centers
 {{< vimeo 410471801 >}} 
 disaster recovery {{< vimeo 554046018 >}} 
 
@@ -16,8 +31,17 @@ disaster recovery {{< vimeo 554046018 >}}
 
 ---
 
+&nbsp;
 
-## prototyping
+## process
+
+&nbsp;
+
+
+Most client work can't be shared here, but these videos give insight into the prototyping process and illustrate the team's technical achievements.
+
+&nbsp;
+
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
 {{< vimeo 553837213 >}}  -->
