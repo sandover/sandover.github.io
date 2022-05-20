@@ -7,20 +7,27 @@ enableEmoji = true
 [params]
 title = "Brandon Harvey"
 # author = "Brandon Harvey"
-# description = """
-# immersive & spatial innovator
-# product leader
-# people leader
-# engineer and architect
-# """
+description = """
+☼
+engineering leader
+☼
+product leader
+☼
+people leader
+☼
+technology builder specializing in immersive realtime, collaboration, human computer interaction, data visualization
+☼
+artist
+☼
+"""
 # profilePicture = "images/glitch-crab.png"
 profilePicture = "svg/sun-solid.svg"
 displayMode = "dark"
 disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.75
-# mainSections = ["posts"]
-mainSections = []
-# fullPostContent = true
+mainSections = ["selected projects and products", "art"]
+# mainSections = []
+fullPostContent = true
 singleDateFormat = "2006"
 indexDateFormat = "2006"
 listDateFormat = "Jan 2"
