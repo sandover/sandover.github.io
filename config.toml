@@ -1,4 +1,4 @@
-baseURL = 'https://www.brandonharvey.io/'
+baseURL = 'https://brandonharvey.io/'
 languageCode = 'en-us'
 title = 'Brandon Harvey, Los Angeles, CA'
 theme = "anatole"
@@ -26,7 +26,7 @@ indexDateFormat = "2006"
 listDateFormat = "Jan 2"
 customCss = ["css/custom.css", "css/styles.css"]
 # googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
-googleFonts = ["Inconsolata", "Jura", "Michroma", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+googleFonts = ["Jura", "Michroma", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 reversepagetitle = true
 
 [[params.socialIcons]]
