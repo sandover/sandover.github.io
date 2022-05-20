@@ -91,7 +91,7 @@ Most client work can't be shared here, but these videos give insight into the te
 &nbsp;
 
 ---
-# oblong industries :: greenhouse sdk 
+# oblong industries :: greenhouse sdk (2012-2018)
 
 I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offering more approachable abstractions and quicker time-to-joy. It was released to the public at greenhouse.oblong.com; and was heavily used within the Oblong Client Solutions group to execute production-quality work for over 5 years.
 
@@ -106,7 +106,7 @@ Internet archive of the Greenhouse SDK site: https://web.archive.org/web/2014070
 &nbsp;
 
 ---
-# oblong industries: saudi aramco (2010-2011)
+# oblong industries :: saudi aramco (2010-2011)
 
 Using Oblong's g-speak software platform, we created a geology visualization application which could be controlled by glove interactions in free space, by touchscreen, by mobile phone, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
 
@@ -118,11 +118,13 @@ Using Oblong's g-speak software platform, we created a geology visualization app
 
 
 ---
-# accenture interactive wall (2004-2006)
+# accenture :: interactive wall (2004-2006)
 
-"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public -- it was usable by the general public in O’Hare, JFK, and other airports for 10 years after its debut. It was the subject of numerous research papers, some of which are still referenced in HCI literature, and played a pioneering role in the domain of public interactive technology experiences.
+"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These remained operational for nearly 10 years after their debut. 
 
-I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same
+The Wall was the subject of numerous research papers we wrote, some of which are still referenced in HCI literature, and played a pioneering role in the domain of public interactive technology experiences.
+
+I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
 
 ### Publications & coverage
 - *O'Hare Gets Interactive Screen*, Wired, 2006 https://www.wired.com/2006/05/ohare-gets-inte/ 
