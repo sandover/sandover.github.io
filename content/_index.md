@@ -82,7 +82,7 @@ Most client work can't be shared here, but these videos give insight into the te
 {{< vimeo 410015034 >}} 
 <!-- TED talks -->
 {{< vimeo 553867938 >}} 
-{{< vimeo 554104942 >}}
+<!-- {{< vimeo 554104942 >}} -->
 <!-- botty mc botface -->
 {{< vimeo 553749883 >}} 
 <!-- text flow -->
