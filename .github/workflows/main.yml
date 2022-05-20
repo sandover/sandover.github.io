@@ -27,6 +27,6 @@ jobs:
           # user_name: sandover
           # user_email: sandover@gmail.com
           # publish_branch: main
-          # cname: www.brandonharvey.io
+          cname: www.brandonharvey.io
           # #   keep_files: true
           
