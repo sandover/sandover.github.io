@@ -1,4 +1,36 @@
-baseURL = 'https://brandonharvey.io/'
+baseURL = 'https://www.brandonharvey.io/'
 languageCode = 'en-us'
 title = 'Brandon Harvey, Los Angeles, CA'
 theme = "anatole"
+
+
+[params]
+title = "Brandon Harvey"
+# author = "Brandon Harvey"
+description = """
+immersive & spatial innovator
+product leader
+people leader
+engineer and architect
+"""
+# profilePicture = "images/glitch-crab.png"
+profilePicture = "svg/sun-solid.svg"
+displayMode = "dark"
+disableThemeSwitcher = true # Theme switcher is enabled by default
+contentratio = 0.75
+# mainSections = ["posts"]
+mainSections = []
+# fullPostContent = true
+singleDateFormat = "2006"
+indexDateFormat = "2006"
+listDateFormat = "Jan 2"
+customCss = ["css/custom.css", "css/styles.css"]
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/sandover"
+
+
+
