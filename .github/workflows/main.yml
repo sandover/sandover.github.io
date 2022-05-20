@@ -24,9 +24,4 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           publish_dir: ./public
           cname: brandonharvey.io
-          # external_repository: sandover.github.io
-          # user_name: sandover
-          # user_email: sandover@gmail.com
-          # publish_branch: main
-          # #   keep_files: true
           
