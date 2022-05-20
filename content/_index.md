@@ -129,6 +129,7 @@ The Wall was the subject of numerous research papers we wrote, some of which are
 I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
 
 ![wall](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/ohare_wall_panorama.jpg)
+![wall 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/wall-image-chad.jpg)
 
 
 ### Publications & coverage
