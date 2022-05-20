@@ -59,18 +59,6 @@ body.theme--dark {
   --chr-gi-color: #a6e22e;
   --chr-gu-color: #75715e;
 }
-/* .body.theme--dark {
-  color: #93a1a1;
-  background-color: #021018;
-}
-
-.nav {
-  background-color: #021018;
-} */
-
-/* default: #152028;
-sublime text backing 1: #021018
-sublime text backing 2: #011620 */
 
 * {
   font-family: 'MaisonNeue', sans-serif;
@@ -106,5 +94,3 @@ sublime text backing 2: #011620 */
   /* letter-spacing: 1px; */
   /* line-height: 1; */
 }
-
-/* Jura, Michroma */
