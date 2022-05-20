@@ -2,7 +2,7 @@ baseURL = 'https://www.brandonharvey.io/'
 languageCode = 'en-us'
 title = 'Brandon Harvey, Los Angeles, CA'
 theme = "anatole"
-
+enableEmoji = true
 
 [params]
 title = "Brandon Harvey"
@@ -25,7 +25,9 @@ singleDateFormat = "2006"
 indexDateFormat = "2006"
 listDateFormat = "Jan 2"
 customCss = ["css/custom.css", "css/styles.css"]
-
+# googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+googleFonts = ["Inconsolata", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+reversepagetitle = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
