@@ -112,7 +112,7 @@ I was one of the principal architects, authors, and maintainers of Greenhouse, a
 ---
 # oblong industries :: saudi aramco (2010-2012)
 
-Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
+Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
 
 {{< vimeo 280249075 >}}
 
