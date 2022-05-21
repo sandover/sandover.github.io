@@ -122,7 +122,7 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 ---
 # accenture :: interactive wall (2004-2007)
 
-"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These remained operational for nearly 10 years after their debut. 
+"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These systems remained operational for nearly 10 years after their debut. 
 
 The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
 
