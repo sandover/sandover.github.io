@@ -112,9 +112,9 @@ The team operated at a sustainable pace, with very low turnover, and never shipp
 &nbsp;
 
 ---
-# oblong industries :: greenhouse sdk (2012-2018)
+# oblong industries :: greenhouse sdk
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work for over 5 years.
+I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work from 2013 to 2018.
 
 {{< vimeo 553841461 >}} 
 
@@ -125,9 +125,9 @@ I was one of the principal architects, authors, and maintainers of Greenhouse, a
 &nbsp;
 
 ---
-# oblong industries :: saudi aramco (2010-2012)
+# oblong industries :: saudi aramco
 
-Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
+Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia. The project ran from 2010 to 2012.
 
 {{< vimeo 280249075 >}}
 
@@ -137,9 +137,9 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 
 
 ---
-# accenture :: interactive wall (2004-2007)
+# accenture :: interactive wall
 
-"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These systems remained operational for nearly 10 years after their debut. 
+"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports starting in 2006. These systems remained operational for nearly 10 years after their debut. 
 
 The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
 
