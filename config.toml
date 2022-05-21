@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params]
 title = "Brandon Harvey"
-# author = "Brandon Harvey"
+author = "Brandon Harvey"
 description = """
 ☼
 technology builder specializing in immersive realtime technology, collaboration systems, and product R&D
@@ -23,7 +23,8 @@ profilePicture = "svg/sun-solid.svg"
 displayMode = "dark"
 # disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.75
-# mainSections = ["portfolio", "art"]
+mainSections = ["portfolio", "art"]
+# mainSections = [""]
 fullPostContent = true
 singleDateFormat = "2006"
 indexDateFormat = "2006"

@@ -2,7 +2,7 @@
 title: "Brandon Harvey : Art"
 date: 2022-05-18T11:29:03-07:00
 draft: false
-type: art
+# type: art
 toc: false
 ---
 
@@ -11,6 +11,9 @@ toc: false
 A grant-funded experiment in buoyant architecture, created for Burning Man 2019.
 
 [art project blog/newsletter](https://kraken.substack.com/)
+
+
+<!-- ![detail](kraken-detail.jpg) -->
 
 ![dawn 1](/images/kraken-dawn-1.jpg)
 
