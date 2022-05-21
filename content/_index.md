@@ -64,7 +64,7 @@ This [UX Design Award-winning collaboration](https://ux-design-awards.com/en/gew
 ---
 # oblong industries :: process
 
-Most client work can't be shared here, but these videos give insight into the team's prototyping process and illustrate various technical achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more.
+Most client work can't be shared here, but these videos give insight into the team's prototyping process and illustrate various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
@@ -110,7 +110,7 @@ I was one of the principal architects, authors, and maintainers of Greenhouse, a
 ---
 # oblong industries :: saudi aramco (2010-2012)
 
-Using Oblong's g-speak software platform, we created a geology visualization application which could be controlled by glove interactions in free space, by touchscreen, by mobile phone, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
+Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions in free space, by touchscreen, by mobile phone, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
 
 {{< vimeo 280249075 >}}
 
