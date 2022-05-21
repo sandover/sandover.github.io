@@ -50,7 +50,7 @@ The Client Solutions team's work was the centerpiece of a series of IBM Watson E
 
 The Centers were a technology showcase, and featured a variety of environments created by Oblong, including large pixel walls and immersion rooms in different configurations. Human engagement was enabled via touch, spatial pointing devices, voice, proximity, and more.
 
-This [UX Design Award-winning collaboration](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) with IBM and design agency [Local Projects](https://www.localprojects.com/) was prototyped and developed at Oblong’s headquarters in Los Angeles as well as IBM’s Immersive AI Lab in Austin. 
+These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) with IBM and design partners such as [Local Projects](https://www.localprojects.com/) were entirely prototyped and developed at our warehouse in Los Angeles, lovingly crafted from the raw materials of C++ and OpenGL.
 
 {{< vimeo 410471801 >}} 
 <!-- {{< vimeo 554046018 >}}  -->
@@ -64,7 +64,9 @@ This [UX Design Award-winning collaboration](https://ux-design-awards.com/en/gew
 ---
 # oblong industries :: process
 
-Most client work can't be shared here, but these videos give insight into the team's highly collaborative prototyping process, as well as illustrating various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more.
+Most client work can't be shared here, but these videos give insight into a highly collaborative prototyping and development process, as well as illustrating various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more. 
+
+The team operated at a sustainable pace, with very low turnover, and never shipped a project late.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
@@ -97,7 +99,7 @@ Most client work can't be shared here, but these videos give insight into the te
 ---
 # oblong industries :: greenhouse sdk (2012-2018)
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work for over 5 years.
+I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work for over 5 years.
 
 {{< vimeo 553841461 >}} 
 
