@@ -17,7 +17,7 @@ As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experienc
 
 Mezzanine was a highly flexible digital canvas which let users share many forms and streams of data in any layout, and it integrated with digital whiteboards, analog whiteboards, and a variety of videoconferencing systems. Mezzanine rooms found a market with an extensive list of Fortune 500 customers and featured innovative forms of interaction unique in this product category.
 
-In addition to making measurable improvements in the usability of the core product, I also championed a new, radically simpler edition of Mezzanine and led the effort to ship it in 6 months. This also enabled a tighter strategic integration with the products of a critical partner.
+In addition to driving measurable improvements in the usability of the core product, I also championed a new, radically simpler edition of Mezzanine and led the effort to ship it in 6 months. This benefited users but also enabled a tighter strategic integration with the products of a critical partner.
 
 {{< vimeo 126761247 >}}
 *This video shows an early version of Mezzanine circa 2015.*
