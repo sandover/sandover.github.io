@@ -1,68 +1,6 @@
 
-body.theme--dark {
-  --chr-def-color: #f8f8f2;
-  --chr-def-bg-color: #272822;
-  --chr-err-color: #960050;
-  --chr-err-bg-color: #1e0010;
-  --chr-hl-bg-color: #ffffcc;
-  --chr-lnt-color: #7f7f7f;
-  --chr-ln-color: #7f7f7f;
-  --chr-k-color: #66d9ef;
-  --chr-kc-color: #66d9ef;
-  --chr-kd-color: #66d9ef;
-  --chr-kn-color: #f92672;
-  --chr-kp-color: #66d9ef;
-  --chr-kr-color: #66d9ef;
-  --chr-kt-color: #66d9ef;
-  --chr-na-color: #a6e22e;
-  --chr-nc-color: #a6e22e;
-  --chr-no-color: #66d9ef;
-  --chr-nd-color: #a6e22e;
-  --chr-ne-color: #a6e22e;
-  --chr-nf-color: #a6e22e;
-  --chr-nx-color: #a6e22e;
-  --chr-nt-color: #f92672;
-  --chr-l-color: #ae81ff;
-  --chr-ld-color: #e6db74;
-  --chr-s-color: #e6db74;
-  --chr-sa-color: #e6db74;
-  --chr-sb-color: #e6db74;
-  --chr-sc-color: #e6db74;
-  --chr-dl-color: #e6db74;
-  --chr-sd-color: #e6db74;
-  --chr-s2-color: #e6db74;
-  --chr-se-color: #ae81ff;
-  --chr-sh-color: #e6db74;
-  --chr-si-color: #e6db74;
-  --chr-sx-color: #e6db74;
-  --chr-sr-color: #e6db74;
-  --chr-s1-color: #e6db74;
-  --chr-ss-color: #e6db74;
-  --chr-m-color: #ae81ff;
-  --chr-mb-color: #ae81ff;
-  --chr-mf-color: #ae81ff;
-  --chr-mh-color: #ae81ff;
-  --chr-mi-color: #ae81ff;
-  --chr-il-color: #ae81ff;
-  --chr-mo-color: #ae81ff;
-  --chr-o-color: #f92672;
-  --chr-ow-color: #f92672;
-  --chr-p-color: #f8f8f2;
-  --chr-c-color: #75715e;
-  --chr-ch-color: #75715e;
-  --chr-cm-color: #75715e;
-  --chr-c1-color: #75715e;
-  --chr-cs-color: #75715e;
-  --chr-cp-color: #75715e;
-  --chr-cpf-color: #75715e;
-  --chr-gd-color: #f92672;
-  --chr-gi-color: #a6e22e;
-  --chr-gu-color: #75715e;
-}
-
 * {
   font-family: 'MaisonNeue', sans-serif;
-  /* font-family: 'Inconsolata'; */
   font-size: 1.7rem;
 }
 
@@ -75,7 +13,6 @@ body.theme--dark {
   font-family: 'Michroma';
   font-size: 2.8rem;
   color: #d2d7d7;
-  /* letter-spacing: 1px; */
   line-height: 1;
 }
 
@@ -83,14 +20,10 @@ body.theme--dark {
   font-family: 'Michroma';
   font-size: 2.3rem;
   color: #d2d7d7;
-  /* letter-spacing: 1px; */
-  /* line-height: 1; */
 }
 
 .post__content h3 {
   font-family: 'Michroma';
   font-size: 1.9rem;
   color: #d2d7d7;
-  /* letter-spacing: 1px; */
-  /* line-height: 1; */
 }
