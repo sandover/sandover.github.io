@@ -9,13 +9,11 @@ title = "Brandon Harvey"
 # author = "Brandon Harvey"
 description = """
 ☼
-engineering leader
-☼
-product leader
+technology builder specializing in immersive realtime technology, collaboration systems, and product R&D
 ☼
 people leader
 ☼
-technology builder specializing in immersive realtime technology, collaboration systems, and product R&D
+product thinker
 ☼
 artist
 ☼
@@ -25,8 +23,7 @@ profilePicture = "svg/sun-solid.svg"
 displayMode = "dark"
 # disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.75
-mainSections = ["selected projects and products", "art"]
-# mainSections = []
+mainSections = ["portfolio", "art"]
 fullPostContent = true
 singleDateFormat = "2006"
 indexDateFormat = "2006"
@@ -36,6 +33,26 @@ googleFonts = ["Inconsolata", "Michroma", "MaisonNeue"]
 # "Syne", "Noto Sans", "Jura", 
 # "Work Sans", "Space Grotesk", "Roboto:ital,wght@0,100;0,400;0,700;1,400"
 reversepagetitle = true
+
+[menu]
+
+  [[menu.main]]
+  name = "portfolio"
+  identifier = "portfolio"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "art"
+  identifier = "art"
+  weight = 200
+  url = "/art/"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
