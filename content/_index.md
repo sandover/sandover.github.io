@@ -13,7 +13,7 @@ draft: false
 ---
 # oblong industries :: mezzanine
 
-As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a pioneering immersive meeting environment, one which enabled any team to bind remote rooms together and work as though side-by-side. 
+As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a groundbreaking immersive meeting product, one which enabled any team to bind remote rooms together and work as though side-by-side. 
 
 Mezzanine was a highly flexible digital canvas which let users share many forms and streams of data side by side, and it integrated with digital whiteboards, analog whiteboards, and a variety of videoconferencing systems. Mezzanine rooms found a market with an extensive list of Fortune 500 customers and featured innovative forms of interaction unique in this product category.
 
