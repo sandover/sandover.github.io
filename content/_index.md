@@ -124,7 +124,7 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 
 "The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports. These remained operational for nearly 10 years after their debut. 
 
-The Wall was the subject of numerous research papers we wrote, some of which are still referenced in HCI literature, and played a pioneering role in the domain of public interactive technology experiences.
+The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
 
 I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
 
