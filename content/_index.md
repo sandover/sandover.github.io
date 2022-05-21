@@ -31,7 +31,7 @@ In addition to making measurable improvements in the usability of the core produ
 
 As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients. With less than a tenth of company headcount, the group often earned more than a quarter of company revenue.
 
-After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager over all projects and teams.
+After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager of all projects and teams -- about 15 people altogether.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
@@ -112,7 +112,7 @@ I was one of the principal architects, authors, and maintainers of Greenhouse, a
 ---
 # oblong industries :: saudi aramco (2010-2012)
 
-Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions in free space, by touchscreen, by mobile phone, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
+Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me doing some prototyping work, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia.
 
 {{< vimeo 280249075 >}}
 
