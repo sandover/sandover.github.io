@@ -13,7 +13,7 @@ draft: false
 ---
 # oblong industries :: mezzanine
 
-As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a pioneering immersive meeting environment, one which enabled any team to bind remote rooms together and work as though side by side. 
+As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a pioneering immersive meeting environment, one which enabled any team to bind remote rooms together and work as though side-by-side. 
 
 Mezzanine was a highly flexible digital canvas which let users share many forms and streams of data side by side, and it integrated with digital whiteboards, analog whiteboards, and a variety of videoconferencing systems. Mezzanine rooms found a market with an extensive list of Fortune 500 customers and featured innovative forms of interaction unique in this product category.
 
@@ -97,7 +97,7 @@ Most client work can't be shared here, but these videos give insight into the te
 ---
 # oblong industries :: greenhouse sdk (2012-2018)
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Oblong Client Solutions group to execute production-quality work for over 5 years.
+I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creating coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work for over 5 years.
 
 {{< vimeo 553841461 >}} 
 
