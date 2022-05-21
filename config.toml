@@ -23,7 +23,7 @@ artist
 # profilePicture = "images/glitch-crab.png"
 profilePicture = "svg/sun-solid.svg"
 displayMode = "dark"
-disableThemeSwitcher = true # Theme switcher is enabled by default
+# disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.75
 mainSections = ["selected projects and products", "art"]
 # mainSections = []
