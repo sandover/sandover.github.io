@@ -71,10 +71,10 @@ Most client work can't be shared here, but these videos give insight into the te
 {{< vimeo 553837213 >}}  -->
 <!-- new disco  -->
 <!-- {{< vimeo 553868286 >}}  -->
-<!-- flycity  -->
-{{< vimeo 554094766 >}} 
 <!-- bands -->
 {{< vimeo 554106976 >}}
+<!-- flycity  -->
+{{< vimeo 554094766 >}} 
 <!-- brain -->
 {{< vimeo 553839256 >}}
 {{< vimeo 553839214 >}} 
@@ -133,10 +133,10 @@ I made core contributions to every part of this new platform, from hardware prot
 
 
 ## publications & coverage
-- *O'Hare Gets Interactive Screen*, Wired, 2006 https://www.wired.com/2006/05/ohare-gets-inte/ 
-- *Accenture Pushes the Interactive Wall*, ZDNet, 2006 https://www.zdnet.com/pictures/photos-accenture-pushes-the-interactive-wall/
-- *New Accenture Technology Lands at O’Hare International Airport*, Accenture press release, 2006 https://newsroom.accenture.com/news/new-accenture-technology-lands-at-ohare-international-airport.htm 
-- *Minority Report Touch Screen Now Available*, The Genre Traveler, 2006 https://www.thegenretraveler.com/sci-fi/minority-report-touch-screen-now-available/ 
-- *Accenture's Serious Games*, 2009 https://www.elianealhadeff.com/2009/10/accentures-serious-games.html
-- HCI research at Accenture Technology Labs: https://dl.acm.org/doi/10.1145/1358628.1358901
+- [O'Hare Gets Interactive Screen](https://www.wired.com/2006/05/ohare-gets-inte/), Wired, 2006 
+- [Accenture Pushes the Interactive Wall](https://www.zdnet.com/pictures/photos-accenture-pushes-the-interactive-wall/), ZDNet, 2006
+- [New Accenture Technology Lands at O’Hare International Airport](https://newsroom.accenture.com/news/new-accenture-technology-lands-at-ohare-international-airport.htm), Accenture press release, 2006  
+- [Minority Report Touch Screen Now Available](https://www.thegenretraveler.com/sci-fi/minority-report-touch-screen-now-available/), The Genre Traveler, 2006  
+- [Accenture's Serious Games](https://www.elianealhadeff.com/2009/10/accentures-serious-games.html), 2009 
+- [HCI research at Accenture Technology Labs](https://dl.acm.org/doi/10.1145/1358628.1358901)
 
