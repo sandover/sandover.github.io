@@ -64,7 +64,7 @@ This [UX Design Award-winning collaboration](https://ux-design-awards.com/en/gew
 ---
 # oblong industries :: process
 
-Most client work can't be shared here, but these videos give insight into the team's prototyping process and illustrate various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more.
+Most client work can't be shared here, but these videos give insight into the team's highly collaborative prototyping process, as well as illustrating various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
