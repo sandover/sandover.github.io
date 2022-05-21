@@ -29,7 +29,7 @@ In addition to making measurable improvements in the usability of the core produ
 ---
 # oblong industries :: client solutions
 
-As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients.
+As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients. With less than a tenth of company headcount, the group often earned more than a quarter of company revenue.
 
 After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager over all projects and teams.
 
