@@ -46,7 +46,7 @@ After starting as an engineer on the team, I eventually played the combined role
 ---
 # oblong industries :: ibm watson experience centers
 
-The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was educate IBM's customers and constituents about machine learning. Both the reality of machine learning, and its potential, were brought to light through a series of unique, interactive, realtime data visualizations and setpieces, developed from 2013 to 2020. 
+The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was educate IBM's customers and constituents about machine learning. Both the reality of machine learning, and its potential, were brought to light through unique, interactive, realtime data visualizations and setpieces, developed from 2013 to 2020. 
 
 The Centers were a technology showcase, and featured a variety of environments created by Oblong, including large display walls and immersion rooms. Human engagement was enabled via touch, spatial pointing devices, voice, proximity, and more.
 
