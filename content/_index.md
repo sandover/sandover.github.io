@@ -31,7 +31,7 @@ In addition to making measurable improvements in the usability of the core produ
 
 As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics 100 million pixels at a time led to attention, awards, and fruitful long-term relationships with happy clients.
 
-After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, project manager, and team lead.
+After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager over all projects and teams.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
