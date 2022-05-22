@@ -35,19 +35,19 @@ googleFonts = ["Inconsolata", "Michroma", "MaisonNeue"]
 # "Work Sans", "Space Grotesk", "Roboto:ital,wght@0,100;0,400;0,700;1,400"
 reversepagetitle = true
 
-[menu]
+# [menu]
 
-  [[menu.main]]
-  name = "portfolio"
-  identifier = "portfolio"
-  weight = 100
-  url = "/"
+#   [[menu.main]]
+#   name = "portfolio"
+#   identifier = "portfolio"
+#   weight = 100
+#   url = "/"
 
-  [[menu.main]]
-  name = "art"
-  identifier = "art"
-  weight = 200
-  url = "/art/"
+#   [[menu.main]]
+#   name = "art"
+#   identifier = "art"
+#   weight = 200
+#   url = "/art/"
 
 [markup]
   [markup.tableOfContents]
