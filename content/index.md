@@ -165,7 +165,7 @@ I made core contributions to every part of this new platform, from hardware prot
 ---
 # art :: sagrada perihelia
 
-A grant-funded experiment in buoyant architecture, created for Burning Man 2019. The larger balloon is 8 feet in diameter and lit from inside by a large LED filament we created. More details available at the [art project blog/newsletter](https://kraken.substack.com/).
+A grant-funded experiment in buoyant architecture, created for Burning Man 2019. The larger balloon is 8 feet in diameter and lit from inside by a large LED filament we created. More details available at the [art project blog/newsletter](https://kraken.substack.com/). (On the landing page, click "Let me read it first".)
 
 <!-- these don't work and it's confusing -->
 <!-- ![detail](kraken-detail.jpg) -->
