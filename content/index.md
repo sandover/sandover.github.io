@@ -16,7 +16,7 @@ toc: true
 
 As a **Director of Engineering for Product** at Magnopus *(2020-present)*, I've built the US side of the company’s first product engineering team, both organically and by hiring. 
 
-Starting in the middle of the pandemic, we've created an effective new software delivery organization nearly from scratch, not just by applying best practices in engineering, but by creating effective interdisciplinary workflows across product, design, "designgineering", and QA that allow teams to move quickly, learn quickly, and still deliver with rigor. With repeated success from practices such as agile story-mapping, design sprints, and engineer-led scrum, we have created a new culture of shipping. I am also focused on growing the next generation of product-minded engineering leaders within the company.
+Starting in the middle of the pandemic, we've created an effective new software delivery organization nearly from scratch, not just by applying best practices in engineering, but by creating effective interdisciplinary workflows across product, design, interaction prototyping, and QA. The point is to let teams to move quickly, learn quickly, and still deliver with rigor. With repeated success from practices such as agile story-mapping, design sprints, and engineer-led scrum, we have created a new culture of shipping. I am also focused on growing the next generation of product-minded engineering leaders within the company.
 
 The team has delivered product prototypes across a range of technology stacks and platforms: Unity, Electron, React, iOS, Android, VR, AR, and more. I'm personally inspired by feedback I've received from more than one person that I was the best manager they’d ever had and I want to make that true in every case.
 
@@ -157,7 +157,18 @@ I made core contributions to every part of this new platform, from hardware prot
 - [Accenture's Serious Games](https://www.elianealhadeff.com/2009/10/accentures-serious-games.html), 2009 
 - [HCI research at Accenture Technology Labs](https://dl.acm.org/doi/10.1145/1358628.1358901)
  
- &nbsp;
+&nbsp;
+
+&nbsp;
+
+---
+# public talks
+
+- [Creative Mornings Los Angeles](https://creativemornings.com/talks/brandon-harvey), 2016
+- South by Southwest, 2017
+
+
+&nbsp;
 
 &nbsp;
 
@@ -176,3 +187,20 @@ A grant-funded experiment in buoyant architecture, created for Burning Man 2019.
 ![day](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-day.jpg)
 ![detail](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-detail.jpg)
 ![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
+
+
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+
+---
+# education
+
+- Cornell University, English, Master of Arts
+- University of Utah, Computer Science, Bachelor of Science
+- University of Utah, English, Bachelor of Arts
