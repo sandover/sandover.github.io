@@ -4,8 +4,9 @@ $primary-light--lightmode: #9f9f9f;
 $primary-lighter--lightmode: #eeeeee;
 $shadow--lightmode: 0 8px 16px rgba(10, 10, 10, 0.1);
 
-// $accent--darkmode: #152028;
-$accent--darkmode: #021018;
+// $accent--darkmode: #152028;    // theme standard
+// $accent--darkmode: #021018;    // sublime dark blue
+$accent--darkmode: #02141f;     // lighter than sublime dark blue
 // $primary--darkmode: #eeeeee;
 $primary--darkmode: #93a1a1;
 $primary-light--darkmode: #9f9f9f;
