@@ -156,4 +156,26 @@ I made core contributions to every part of this new platform, from hardware prot
 - [Minority Report Touch Screen Now Available](https://www.thegenretraveler.com/sci-fi/minority-report-touch-screen-now-available/), The Genre Traveler, 2006  
 - [Accenture's Serious Games](https://www.elianealhadeff.com/2009/10/accentures-serious-games.html), 2009 
 - [HCI research at Accenture Technology Labs](https://dl.acm.org/doi/10.1145/1358628.1358901)
+ 
+ &nbsp;
 
+&nbsp;
+
+
+---
+# art: sagrada perihelia
+
+A grant-funded experiment in buoyant architecture, created for Burning Man 2019.
+
+[art project blog/newsletter](https://kraken.substack.com/)
+
+
+<!-- ![detail](kraken-detail.jpg) -->
+
+![dawn 1](/images/kraken-dawn-1.jpg)
+
+![dawn 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-1.jpg)
+![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
+![night](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-night.jpg)
+![day](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-day.jpg)
+![detail](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-detail.jpg)
