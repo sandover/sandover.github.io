@@ -5,7 +5,19 @@ draft: false
 toc: true
 ---
 
-<!-- ### p o r t f o l i o -->
+
+&nbsp;
+
+&nbsp;
+
+---
+# bio
+
+I'm a technology builder and a team builder, specializing in immersive realtime technology, collaboration systems, and product R&D. 
+
+I have a broad background as a hands-on people manager, a product manager, a full stack engineer and architect, and a software designer, which gives me the ability to bridge disciplines and create situations where people can do their best work. When smart people are doing their best work, good things will follow.
+
+
 
 &nbsp;
 
@@ -44,7 +56,7 @@ In addition to driving measurable improvements in the usability of the core prod
 ---
 # oblong industries :: client solutions
 
-As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for demanding Fortune 100 clients. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients. With less than a tenth of company headcount, the group often earned more than a quarter of company revenue.
+As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for clients such as IBM, McKinsey, and ESPN. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients. With less than a tenth of company headcount, the group often earned more than a quarter of company revenue.
 
 After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager of all projects and teams -- about 15 people altogether.
 
