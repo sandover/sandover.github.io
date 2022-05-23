@@ -163,18 +163,16 @@ I made core contributions to every part of this new platform, from hardware prot
 
 
 ---
-# art: sagrada perihelia
+# art :: sagrada perihelia
 
-A grant-funded experiment in buoyant architecture, created for Burning Man 2019.
+A grant-funded experiment in buoyant architecture, created for Burning Man 2019. The larger balloon is 8 feet in diameter and lit from inside by a large LED filament we created. More details available at the [art project blog/newsletter](https://kraken.substack.com/).
 
-[art project blog/newsletter](https://kraken.substack.com/)
-
-
+<!-- these don't work and it's confusing -->
 <!-- ![detail](kraken-detail.jpg) -->
 <!-- ![dawn 1](/images/kraken-dawn-1.jpg) -->
 
 ![dawn 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-1.jpg)
-![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
 ![night](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-night.jpg)
 ![day](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-day.jpg)
 ![detail](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-detail.jpg)
+![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
