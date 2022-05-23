@@ -149,7 +149,7 @@ I made core contributions to every part of this new platform, from hardware prot
 ![wall 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/wall-image-chad.jpg)
 
 
-## publications & coverage
+## wall :: publications & coverage
 - [O'Hare Gets Interactive Screen](https://www.wired.com/2006/05/ohare-gets-inte/), Wired, 2006 
 - [Accenture Pushes the Interactive Wall](https://www.zdnet.com/pictures/photos-accenture-pushes-the-interactive-wall/), ZDNet, 2006
 - [New Accenture Technology Lands at O’Hare International Airport](https://newsroom.accenture.com/news/new-accenture-technology-lands-at-ohare-international-airport.htm), Accenture press release, 2006  
