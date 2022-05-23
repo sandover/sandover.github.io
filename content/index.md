@@ -171,8 +171,7 @@ A grant-funded experiment in buoyant architecture, created for Burning Man 2019.
 
 
 <!-- ![detail](kraken-detail.jpg) -->
-
-![dawn 1](/images/kraken-dawn-1.jpg)
+<!-- ![dawn 1](/images/kraken-dawn-1.jpg) -->
 
 ![dawn 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-1.jpg)
 ![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
