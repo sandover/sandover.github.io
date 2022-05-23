@@ -6,7 +6,7 @@ toc: true
 ---
 
 
-&nbsp;
+<!-- &nbsp;
 
 &nbsp;
 
@@ -17,6 +17,7 @@ I'm a technology builder and a team builder, specializing in immersive realtime 
 
 I have a broad background as a hands-on people manager, a product manager, a full stack engineer and architect, and a software designer, which gives me the ability to bridge disciplines and create situations where people can do their best work. When smart people are doing their best work, good things will follow.
 
+I've worked in 3-person startups, in applied R&D at the Accenture Technology Labs, in  -->
 
 
 &nbsp;
