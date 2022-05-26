@@ -189,7 +189,7 @@ I made core contributions to every part of this new platform, from hardware prot
 ---
 # art :: sagrada perihelia
 
-An experiment in buoyant architecture, this piece was created for Burning Man 2019 and partly supported by a [Black Rock City Honorarium Grant](https://burningman.org/about/history/brc-history/event-archives/2019-event-archive/2019-art-installations/). The larger balloon is 8 feet in diameter and lit from inside by a large LED filament we created. More details available at the [art project blog/newsletter](https://kraken.substack.com/). (On the landing page, click "Let me read it first".)
+An experiment in buoyant architecture, this piece was created for Burning Man 2019 and partly supported by a [Black Rock City Honorarium Grant](https://burningman.org/about/history/brc-history/event-archives/2019-event-archive/2019-art-installations/). The larger balloon is 8 feet in diameter and lit from inside by a large LED filament we created. The hundred other balloons are also lit from within by LEDs, but the visual effect of this doesn't photograph well. Guess you had to be there! :) More details available at the [art project blog/newsletter](https://kraken.substack.com/). (On the landing page, click "Let me read it first".)
 
 <!-- these don't work and it's confusing -->
 <!-- ![detail](kraken-detail.jpg) -->
