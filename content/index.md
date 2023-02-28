@@ -25,13 +25,25 @@ I've worked in 3-person startups, in applied R&D at the Accenture Technology Lab
 &nbsp;
 
 ---
+
+# meta :: supernatural
+
+As **Director of Technical Product Management** at Supernatural (within Meta) *(2022-present)*, I lead product management for internal platform and tools teams.
+
+
+&nbsp;
+
+&nbsp;
+
+
+---
 # magnopus :: product engineering
 
-As a **Director of Engineering for Product** at Magnopus *(2020-present)*, I've built the US side of the company’s first product engineering team, both organically and by hiring. 
+As a **Director of Engineering for Product** at Magnopus *(2020-present)*, I shaped the US side of the company’s first product engineering team, both organically and by hiring. 
 
-Starting in the middle of the pandemic, we've created an effective new software delivery organization nearly from scratch, not just by applying best practices in engineering, but by creating interdisciplinary workflows across product, design, interaction prototyping, and QA. The point is to let teams to move quickly, learn quickly, and still deliver with rigor. With repeated success from practices such as agile story-mapping, design sprints, continuous delivery, and engineer-led scrum, we have created a new culture of shipping. I am also focused on growing the next generation of product-minded engineering leaders within the company.
+Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was to apply best practices not just in engineering, but to cultivate workflows across disciplines: product, design, interaction prototyping, and QA. This  let teams move quickly, learn quickly, and deliver with rigor. I also focused on growing the next generation of product-minded engineering leaders within the company.
 
-As Magnopus creates a metaverse/XR platform and product designed for the next generation of mixed-reality entertainment experiences, the product team has delivered prototypes across a range of technology stacks and platforms: Unity, Electron, React, iOS, Android, VR, AR, and more. I'm personally inspired by feedback I've received from more than one person that I was the best manager they’d ever had and I want to make that true in every case.
+The product team delivered prototypes across a range of technology stacks and platforms: Unity, Electron, React, iOS, Android, VR, and AR, and shipped a  product to the iOS App Store which was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
 
 
 &nbsp;
