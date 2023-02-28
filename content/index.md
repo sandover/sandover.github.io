@@ -39,7 +39,7 @@ As **Director of Technical Product Management** at Supernatural (within Meta) *(
 ---
 # magnopus :: product engineering
 
-As a **Director of Engineering for Product** at Magnopus *(2020-present)*, I shaped the US side of the company’s first product engineering team, both organically and by hiring. 
+As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped the US side of the company’s first product engineering team, both organically and by hiring. 
 
 Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was to apply best practices not just in engineering, but to cultivate workflows across disciplines: product, design, interaction prototyping, and QA. This  let teams move quickly, learn quickly, and deliver with rigor. I also focused on growing the next generation of product-minded engineering leaders within the company.
 
