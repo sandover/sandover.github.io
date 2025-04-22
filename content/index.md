@@ -13,9 +13,9 @@ toc: true
 ---
 # bio
 
-I'm a technology builder and a team builder, specializing in immersive realtime technology, collaboration systems, and product R&D. 
+I'm a technology builder and a team builder, with 20+ years of experience in spatial technology, novel human-computer interfaces, and new product development. 
 
-I have a broad background as a hands-on people manager, a product manager, a full stack engineer and architect, and a software designer, which gives me the ability to bridge disciplines and create situations where people can do their best work. When smart people are doing their best work, good things will follow.
+I have a broad background as a hands-on people manager, a product manager, a full stack engineer and architect, and a software designer, which gives me the ability to bridge disciplines and create situations where people can do their best work. 
 
 I've worked in 3-person startups, in applied R&D at the Accenture Technology Labs, in  -->
 
@@ -28,7 +28,7 @@ I've worked in 3-person startups, in applied R&D at the Accenture Technology Lab
 
 # meta :: supernatural
 
-As **Director of Technical Product Management** at Supernatural (within Meta) *(2022-present)*, I lead product management for internal platform and tools teams.
+As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-present)*, I help Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
 
 
 &nbsp;
@@ -39,9 +39,9 @@ As **Director of Technical Product Management** at Supernatural (within Meta) *(
 ---
 # magnopus :: product engineering
 
-As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped the US side of the company’s first product engineering team, both organically and by hiring. 
+As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped the US side of the company’s first product team.
 
-Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was to apply best practices not just in engineering, but to cultivate workflows across disciplines: product, design, interaction prototyping, and QA. This  let teams move quickly, learn quickly, and deliver with rigor. I also focused on growing the next generation of product-minded engineering leaders within the company.
+Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was not just to ship software (which we did) but to ship a durable, sustainable way of working that was suited to product work, as distinct from project work. The workflows and systems I established helped our various disciplines -- product, design, interaction prototyping, QA -- move quickly, learn from each other, and deliver with rigor. I also focused on growing the next generation of product-minded engineering leaders within the company.
 
 The product team delivered prototypes across a range of technology stacks and platforms: Unity, Electron, React, iOS, Android, VR, and AR, and shipped a  product to the iOS App Store which was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
 
@@ -53,11 +53,11 @@ The product team delivered prototypes across a range of technology stacks and pl
 ---
 # oblong industries :: mezzanine
 
-As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a groundbreaking immersive meeting product, one which enabled any team to bind remote rooms together and work as though side-by-side. 
+As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a groundbreaking immersive meeting product, which allowed distributed teams to connect their spaces and collaborate seamlessly as if in the same room.
 
 Mezzanine was a highly flexible digital canvas which let users share many forms and streams of data in any layout, and it integrated with digital whiteboards, analog whiteboards, and a variety of videoconferencing systems. Mezzanine rooms found a market with an extensive list of Fortune 500 customers and featured innovative forms of interaction unique in this product category.
 
-In addition to driving measurable improvements in the usability of the core product, I also championed a new, radically simpler edition of Mezzanine and led the effort to ship it in 6 months. This benefited users but also enabled a tighter strategic integration with the products of a critical partner.
+I have a passion for usability. In addition to making measurable impacts on core product usability and approachability, I drove the vision and rapid delivery (6 months from concept to shipping) of a radically simpler Mezzanine edition. This benefited end users but also enabled a tighter strategic integration with the products of a critical partner.
 
 {{< vimeo 126761247 >}}
 *This video shows an early version of Mezzanine circa 2015.*
@@ -69,9 +69,9 @@ In addition to driving measurable improvements in the usability of the core prod
 ---
 # oblong industries :: client solutions
 
-As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for clients such as IBM, McKinsey, and ESPN. Our ability to build interactive spatial experiences using realtime graphics -- 100 million pixels at a time -- led to attention, awards, and fruitful long-term relationships with happy clients. With less than a tenth of company headcount, the group often earned more than a quarter of company revenue.
+As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for clients such as IBM, McKinsey, and ESPN. Our skill in crafting interactive spatial experiences at massive scale -- 100 million pixels rendered in realtime -- earned industry recognition, awards, and enduring client relationships. With less than a tenth of company headcount, the group often earned a much higher fraction of company revenue.
 
-After starting as an engineer on the team, I eventually played the combined roles of chief technical architect, primary client point of contact, and manager of all projects and teams -- about 15 people altogether.
+On this team, I contributed individually, managed client relationships, defined technical architecture, and ultimately led the entire group.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
@@ -86,11 +86,11 @@ After starting as an engineer on the team, I eventually played the combined role
 ---
 # oblong industries :: ibm watson experience centers
 
-The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was educate IBM's customers and constituents about machine learning. Both the reality of machine learning, and its potential, were brought to light through unique, interactive, realtime data visualizations and setpieces, developed from 2013 to 2020. 
+The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was educate IBM's customers and constituents about machine learning. These centers illuminated both the reality and potential of machine learning through dynamic, interactive visualizations and experiential setpieces, developed from 2013 to 2020.
 
 The Centers were a technology showcase, and featured a variety of environments created by Oblong, including large pixel walls and immersion rooms in different configurations. Human engagement was enabled via touch, spatial pointing devices, voice, proximity, and more.
 
-These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) with IBM and design partners such as [Local Projects](https://www.localprojects.com/) were entirely prototyped and developed at our warehouse in Los Angeles, lovingly crafted from the raw materials of C++ and OpenGL.
+These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) with IBM and design partners such as [Local Projects](https://www.localprojects.com/) were prototyped and developed at our warehouse in Los Angeles, crafted with care and precision in C++ and OpenGL.
 
 {{< vimeo 410471801 >}} 
 <!-- {{< vimeo 554046018 >}}  -->
@@ -106,7 +106,7 @@ These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/g
 
 Most client work can't be shared here, but these videos give insight into a highly collaborative prototyping and development process, as well as illustrating various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more. 
 
-The team operated at a sustainable pace, with very low turnover, and never shipped a project late.
+The team maintained sustainable workloads, low turnover, and a perfect track record of on-time delivery.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
@@ -139,7 +139,9 @@ The team operated at a sustainable pace, with very low turnover, and never shipp
 ---
 # oblong industries :: greenhouse sdk
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse's goal was to offer more approachable abstractions and quicker time-to-joy. It was released to the public on its own website which our team also created ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)); and was heavily used within the Client Solutions group to quickly execute production-quality work from 2013 to 2018.
+I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse aimed to provide more approachable abstractions and faster time-to-joy.
+
+Greenhouse came to be relied upon by Oblong's clients, and was also made available to the public at ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)). The Client Solutions team adopted it internally for production work in 2013.
 
 {{< vimeo 553841461 >}} 
 
@@ -152,7 +154,7 @@ I was one of the principal architects, authors, and maintainers of Greenhouse, a
 ---
 # oblong industries :: saudi aramco
 
-Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application which could be controlled by glove interactions, by touchscreen, by mobile device, and by web interface. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia. The project ran from 2010 to 2012.
+Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application, controllable via gesture gloves, touchscreens, mobile devices, or web interfaces. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia. The project ran from 2010 to 2012.
 
 {{< vimeo 280249075 >}}
 
@@ -164,7 +166,7 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 ---
 # accenture :: interactive wall
 
-"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. After less than two years of development, The Wall went live and was usable by the general public in O’Hare, JFK, and other airports starting in 2006. These systems remained operational for nearly 10 years after their debut. 
+"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. Less than two years after inception, The Wall was deployed for daily public use at O’Hare, JFK, and other airports, beginning in 2006. Some of these systems remained operational for nearly 10 years after their debut.
 
 The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
 
