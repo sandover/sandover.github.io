@@ -41,10 +41,9 @@ As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *
 
 As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped the US side of the company’s first product team.
 
-Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was not just to ship software (which we did) but to ship a durable, sustainable way of working that was suited to product work, as distinct from project work. The workflows and systems I established helped our various disciplines -- product, design, interaction prototyping, QA -- move quickly, learn from each other, and deliver with rigor. I also focused on growing the next generation of product-minded engineering leaders within the company.
+Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was not just to ship software (which we did) but to ship a durable, sustainable way of working that was suited to product work, as distinct from project work. The workflows and systems I established helped our various disciplines -- product, design, interaction prototyping, QA -- move quickly, learn from each other, and deliver with rigor. A product of this team was eventually named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
 
-The product team delivered prototypes across a range of technology stacks and platforms: Unity, Electron, React, iOS, Android, VR, and AR, and shipped a  product to the iOS App Store which was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
-
+At Magnopus I was also active in shaping and leading new 0 - 1 product development processes. Working within the bounds of our technology focus areas, I led collaborative efforts to ideate (grounded in user needs), build (cheaply and cheerfully), learn (and demo) -- and then repeat. It's an iterated game. In this way, we were able to quickly explore a broad opportunity space and validate key ideas.
 
 &nbsp;
 
