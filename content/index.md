@@ -231,3 +231,14 @@ An experiment in buoyant architecture, this piece was created for Burning Man 20
 - Cornell University, English, Master of Arts
 - University of Utah, Computer Science, Bachelor of Science
 - University of Utah, English, Bachelor of Arts
+
+
+&nbsp;
+
+&nbsp;
+
+
+---
+# blog
+
+A little blogging from time to time, (as a treat)[https://kraken.substack.com].
