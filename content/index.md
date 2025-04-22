@@ -241,4 +241,4 @@ An experiment in buoyant architecture, this piece was created for Burning Man 20
 ---
 # blog
 
-A little blogging from time to time, (as a treat)[https://kraken.substack.com].
+A little blogging from time to time, [as a treat](https://kraken.substack.com).
