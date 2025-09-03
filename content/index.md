@@ -26,10 +26,24 @@ I've worked in 3-person startups, in applied R&D at the Accenture Technology Lab
 
 ---
 
+# softmax
+
+SoftMax is a new company researching fresh approaches to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about RL research, and learn from each other?  We built new tools to support this process better. Second, how do people learn the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
+
+
+&nbsp;
+
+&nbsp;
+
+---
+
 # meta :: supernatural
 
-As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-present)*, I help Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
+I was **Product Manager** for Supernatural's platform and tools, which was partly about operational excellence in the near term (supporting a live online service and a daily workout production schedule), and partly about establishing a longer term strategic approach to new technology opportunities appearing up and down the stack. 
 
+On the frontier side, I led a 0 -> 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
+
+On the platform side, I led many projects, including foundational support for a signature feature, multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”). I also led compliance efforts for the Washington State "My Health My Data" law, partnering closely with Meta legal to de-risk the product and keep momentum.
 
 &nbsp;
 
@@ -43,7 +57,7 @@ As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped
 
 Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was not just to ship software (which we did) but to ship a durable, sustainable way of working that was suited to product work, as distinct from project work. The workflows and systems I established helped our various disciplines -- product, design, interaction prototyping, QA -- move quickly, learn from each other, and deliver with rigor. A product of this team was eventually named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
 
-At Magnopus I was also active in shaping and leading new 0 - 1 product development processes. Working within the bounds of our technology focus areas, I led collaborative efforts to ideate (grounded in user needs), build (cheaply and cheerfully), learn (and demo) -- and then repeat. It's an iterated game. In this way, we were able to quickly explore a broad opportunity space and validate key ideas.
+At Magnopus I was also active in shaping and leading new 0 -> 1 product development processes. Working within the bounds of our technology focus areas, I led collaborative efforts to ideate (grounded in user needs), build (cheaply and cheerfully), learn (and demo) -- and then repeat. It's an iterated game. In this way, we were able to quickly explore a broad opportunity space and validate key ideas.
 
 &nbsp;
 
