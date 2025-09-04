@@ -46,7 +46,7 @@ On the frontier side, I led a 0 -> 1 exploration of an AI-powered Supernatural e
 On the platform side, I led many projects, including foundational support for a signature feature, multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”). I also led compliance efforts for the Washington State "My Health My Data" law, partnering closely with Meta legal to de-risk the product and keep momentum.
 
 
-![supernatural](static/images/supernatural-hero.jpg)
+![supernatural](images/supernatural-hero.jpg)
 
 &nbsp;
 
