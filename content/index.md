@@ -242,6 +242,18 @@ An experiment in buoyant architecture, this piece was created for Burning Man 20
 
 
 ---
+# music
+
+==> Listen to [the cassandras](https://open.spotify.com/artist/1TagTPPJb4jhUliMdF8yik?si=V0QvhnYlQsa93vApsOKwJA) on Spotify.
+
+
+
+&nbsp;
+
+&nbsp;
+
+
+---
 # education
 
 - Cornell University, English, Master of Arts
