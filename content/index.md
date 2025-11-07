@@ -28,7 +28,7 @@ I've worked in 3-person startups, in applied R&D at the Accenture Technology Lab
 
 # softmax
 
-SoftMax is a new company researching fresh approaches to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about RL research, and learn from each other?  We built new tools to support this process better. Second, how do people learn the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
+SoftMax is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about AI research, and learn from each other?  We built new tools to support this process better. Second, how do people learn and use the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
 
 
 &nbsp;
