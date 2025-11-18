@@ -31,7 +31,7 @@ No website yet, and the paint is not yet dry. But reach out to me via LinkedIn i
 
 # softmax
 
-[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about AI research, and learn from each other?  We built new tools to support this process better. Second, how do people learn and use the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
+[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other?  We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on Python notebooks to shorten the path from cold start to real RL experiment.
 
 
 &nbsp;
