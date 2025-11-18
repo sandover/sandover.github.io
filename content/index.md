@@ -13,11 +13,31 @@ toc: true
 ---
 # bio
 
-I'm a technology builder and a team builder, with 20+ years of experience in spatial technology, novel human-computer interfaces, and new product development. 
+I have 25 years of experience building technology at the frontier: AR, VR, mixed reality, spatial technology, collaboration systems, data visualization, and AI.
 
-I have a broad background as a hands-on people manager, a product manager, a full stack engineer and architect, and a software designer, which gives me the ability to bridge disciplines and create situations where people can do their best work. 
+As a software engineer, architect, and designer, I like to build new things.
+
+As a leader, I like to create situations where people can do their best work.
 
 I've worked in 3-person startups, in applied R&D at the Accenture Technology Labs, in  -->
+
+
+&nbsp;
+
+&nbsp;
+
+---
+
+# strike valley studio
+
+I started **Strike Valley Studio** to help companies see around corners and build for the future.
+
+We do two things: 
+
+1.  Build new software in new ways
+2.  Consult to help companies adapt in the age of AI
+
+No website yet, and the paint is not yet dry. But reach out to me via LinkedIn if you have a project in mind!
 
 
 &nbsp;
