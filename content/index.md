@@ -18,7 +18,7 @@ I started **Strike Valley Studio** to help companies see around corners and buil
 We do two things: 
 
 1.  Build new software in new ways
-2.  Consult to help companies adapt in the age of AI
+2.  Consult for companies who are adapting to the age of AI
 
 No website yet, and the paint is not yet dry. But reach out to me via LinkedIn if you have a project in mind!
 
