@@ -5,23 +5,6 @@ draft: false
 toc: true
 ---
 
-
-<!-- &nbsp;
-
-&nbsp;
-
----
-# bio
-
-I have 25 years of experience building technology at the frontier: AR, VR, mixed reality, spatial technology, collaboration systems, data visualization, and AI.
-
-As a software engineer, architect, and designer, I like to build new things.
-
-As a leader, I like to create situations where people can do their best work.
-
-I've worked in 3-person startups, in applied R&D at the Accenture Technology Labs, in  -->
-
-
 &nbsp;
 
 &nbsp;
@@ -48,7 +31,7 @@ No website yet, and the paint is not yet dry. But reach out to me via LinkedIn i
 
 # softmax
 
-SoftMax is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about AI research, and learn from each other?  We built new tools to support this process better. Second, how do people learn and use the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
+[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL). During my visiting role there, I focused on learning problems. First, how do the people at Softmax learn about AI research, and learn from each other?  We built new tools to support this process better. Second, how do people learn and use the SoftMax platform itself? I started work on Python notebooks to shorten the path from a standing start to running a real RL experiment.
 
 
 &nbsp;
@@ -59,9 +42,9 @@ SoftMax is an AI startup doing pioneering research into to fundamental problems 
 
 # meta :: supernatural
 
-I was **Product Manager** for Supernatural's platform and tools, which was partly about operational excellence in the near term (supporting a live online service and a daily workout production schedule), and partly about establishing a longer term strategic approach to new technology opportunities appearing up and down the stack. 
+I was **Product Manager** for [Supernatural](https://www.meta.com/quest/supernatural/?srsltid=AfmBOooyxoCsviqu1AxBQb4izCCYIbOUIY7LcFUPDqHkhV1QHp5bcBVZ)'s platform, tools, and technology stack.  This meant operational excellence day to day (supporting a live online service and a daily workout production schedule), as well as a longer term strategic approach to new technology opportunities appearing up and down the stack.
 
-On the frontier side, I led a 0 -> 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
+On the frontier side, I led a 0 → 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
 
 On the platform side, I led many projects, including foundational support for a signature feature, multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”). I also led compliance efforts for the Washington State "My Health My Data" law, partnering closely with Meta legal to de-risk the product and keep momentum.
 
