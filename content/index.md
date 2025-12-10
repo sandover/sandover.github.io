@@ -23,8 +23,8 @@ Large language models are transforming the software craft. This is exciting, and
 
 If you want to:
 - use software to rapidly solve a problem
-- retool a software team or production process
-- coach your product or engineering team for what's next
+- retool a software team or software production process
+- coach your product or engineering team for the era of AI-driven software creation
 
 ...reach out to me via LinkedIn.
 
