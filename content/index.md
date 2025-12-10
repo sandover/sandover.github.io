@@ -22,11 +22,11 @@ Large language models are transforming the software craft. This is exciting, and
 [Strike Valley Studio](https://www.strikevalley.studio) is an expression of that excitement and optimism. I started this practice to help companies see around corners and build for the future.
 
 If you want to:
-- use software to solve a problem -- rapidly
+- use software to rapidly solve a problem
 - retool a software team or production process
-- coach your product or engineering team for the next era of software creation
+- coach your product or engineering team for what's next
 
-...reach out to me.
+...reach out to me via LinkedIn.
 
 &nbsp;
 
@@ -98,9 +98,9 @@ As **Director of Engineering for Oblong's Client Solutions division** *(2010-201
 On this team, I contributed individually, managed client relationships, defined technical architecture, and ultimately led the entire group.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
-![warehouse 1](images/warehouse-1.jpg)
+![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
 <!-- ![warehouse 2](images/warehouse-2.jpg) -->
-![warehouse 2](images/warehouse-2.jpg)
+![warehouse 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-2.jpg)
 
 &nbsp;
 
@@ -196,8 +196,8 @@ The Wall was developed entirely by a team of three people at the Accenture Techn
 
 I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
 
-![wall](images/ohare_wall_panorama.jpg)
-![wall 2](images/wall-image-chad.jpg)
+![wall](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/ohare_wall_panorama.jpg)
+![wall 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/wall-image-chad.jpg)
 
 
 ## wall :: publications & coverage
@@ -233,11 +233,11 @@ An experiment in buoyant architecture, this piece was created for Burning Man 20
 <!-- ![detail](kraken-detail.jpg) -->
 <!-- ![dawn 1](/images/kraken-dawn-1.jpg) -->
 
-![dawn 1](images/kraken-dawn-1.jpg)
-![night](images/kraken-night.jpg)
-![day](images/kraken-day.jpg)
-![detail](images/kraken-detail.jpg)
-![dawn 2](images/kraken-dawn-2.jpg)
+![dawn 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-1.jpg)
+![night](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-night.jpg)
+![day](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-day.jpg)
+![detail](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-detail.jpg)
+![dawn 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/kraken-dawn-2.jpg)
 
 
 
