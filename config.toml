@@ -24,7 +24,7 @@ singleDateFormat = "2006"
 indexDateFormat = "2006"
 listDateFormat = "Jan 2"
 customCss = ["css/custom.css", "css/styles.css"]
-googleFonts = ["Inconsolata", "Michroma", "MaisonNeue"]
+googleFonts = ["Inconsolata", "Michroma", "DM Sans"]
 # "Syne", "Noto Sans", "Jura", 
 # "Work Sans", "Space Grotesk", "Roboto:ital,wght@0,100;0,400;0,700;1,400"
 reversepagetitle = true
@@ -55,4 +55,3 @@ reversepagetitle = true
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sandover"
-
