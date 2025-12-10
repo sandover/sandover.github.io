@@ -12,6 +12,8 @@ description = """
 """
 # profilePicture = "images/glitch-crab.png"
 profilePicture = "svg/sun-solid.svg"
+sidebarExtraImage = "images/brandon-profile-pic-2024.jpeg"
+sidebarExtraImageAlt = "Glitch crab illustration"
 displayMode = "dark"
 # disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.75
@@ -26,6 +28,8 @@ googleFonts = ["Inconsolata", "Michroma", "MaisonNeue"]
 # "Syne", "Noto Sans", "Jura", 
 # "Work Sans", "Space Grotesk", "Roboto:ital,wght@0,100;0,400;0,700;1,400"
 reversepagetitle = true
+
+[taxonomies]
 
 # [menu]
 
@@ -51,6 +55,4 @@ reversepagetitle = true
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sandover"
-
-
 

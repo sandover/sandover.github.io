@@ -11,17 +11,22 @@ toc: true
 
 ---
 
-# strike valley studio
+# strike valley studio :: consulting
 
-I started **Strike Valley Studio** to help companies see around corners and build for the future.
+_I make software._
 
-We do two things: 
+I’ve spent my career working every side of the software creation process: conceptual invention, UI design, interaction design, frontline software engineering, software architecture and planning, management of software teams, product management, and product strategy. I’m a generalist.
 
-1.  Build new software in new ways
-2.  Consult for companies who are adapting to the age of AI
+Large language models are transforming this craft. This is exciting, and it’s going to lead to good things. 
 
-No website yet, and the paint is not yet dry. But reach out to me via LinkedIn if you have a project in mind!
+[Strike Valley Studio](https://www.strikevalley.studio) is an expression of that excitement and optimism. I started this practice to help companies see around corners and build for the future.
 
+If you want to:
+- use software to solve a problem
+- rebuild a software team or production process
+- train for your product or engineering team for the next era of software creation
+
+...reach out to me.
 
 &nbsp;
 
@@ -31,7 +36,7 @@ No website yet, and the paint is not yet dry. But reach out to me via LinkedIn i
 
 # softmax
 
-[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other?  We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on Python notebooks to shorten the path from cold start to real RL experiment.
+[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other?  We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on pedagogical Python notebooks to shorten the path from cold start to real RL experiment.
 
 
 &nbsp;
@@ -42,7 +47,7 @@ No website yet, and the paint is not yet dry. But reach out to me via LinkedIn i
 
 # meta :: supernatural
 
-I was **Product Manager** for [Supernatural](https://www.meta.com/quest/supernatural/?srsltid=AfmBOooyxoCsviqu1AxBQb4izCCYIbOUIY7LcFUPDqHkhV1QHp5bcBVZ)'s platform, tools, and technology stack.  This meant operational excellence day to day (supporting a live online service and a daily workout production schedule), as well as a longer term strategic approach to new technology opportunities appearing up and down the stack.
+As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-present)*, I helped Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
 
 On the frontier side, I led a 0 → 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
 

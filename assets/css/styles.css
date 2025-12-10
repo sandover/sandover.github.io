@@ -33,3 +33,13 @@
   font-size: 1.6rem;
   color: #d2d7d7;
 }
+
+.sidebar__extra-image {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+}
+
+.sidebar__extra-image img {
+  width: 100%;
+  display: block;
+}
