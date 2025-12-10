@@ -17,14 +17,14 @@ _I make software._
 
 I’ve spent my career working every side of the software creation process: conceptual invention, UI design, interaction design, frontline software engineering, software architecture and planning, management of software teams, product management, and product strategy. I’m a generalist.
 
-Large language models are transforming this craft. This is exciting, and it’s going to lead to good things. 
+Large language models are transforming the software craft. This is exciting, and it’s going to lead to good things.
 
 [Strike Valley Studio](https://www.strikevalley.studio) is an expression of that excitement and optimism. I started this practice to help companies see around corners and build for the future.
 
 If you want to:
-- use software to solve a problem
-- rebuild a software team or production process
-- train your product or engineering team for the next era of software creation
+- use software to solve a problem -- rapidly
+- retool a software team or production process
+- coach your product or engineering team for the next era of software creation
 
 ...reach out to me.
 
