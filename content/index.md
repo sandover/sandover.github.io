@@ -57,7 +57,7 @@ If you want to:
 
 # meta :: supernatural
 
-As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-present)*, I helped Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
+As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-2025)*, I helped Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
 
 On the frontier side, I led a 0 → 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
 
