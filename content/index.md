@@ -13,20 +13,30 @@ toc: true
 
 # strike valley studio :: consulting
 
-_I make software._
+I’ve spent my career working every side of the software craft: conceptual invention, UI design, interaction design, frontline software engineering, software architecture and planning, management of software teams, product management, and product strategy.
 
-I’ve spent my career working every side of the software creation process: conceptual invention, UI design, interaction design, frontline software engineering, software architecture and planning, management of software teams, product management, and product strategy. I’m a generalist.
+Large language models are transforming this craft in two key ways.
 
-Large language models are transforming the software craft. This is exciting, and it’s going to lead to good things.
+Firstly, software development accelerates. Software becomes cheaper to build and cheaper to change. Up until now, the high cost of software and the brittleness of software have been bottlenecks. Those bottlenecks will be removed.
 
-[Strike Valley Studio](https://www.strikevalley.studio) is an expression of that excitement and optimism. I started this practice to help companies see around corners and build for the future.
+Secondly, we can now bake real intelligence **into** software. This redraws the map of what software can actually do -- it lets us create fundamentally new types of solutions.
+
+I started [Strike Valley Studio](https://www.strikevalley.studio) to help companies build for the future of software.
 
 If you want to:
-- use software to rapidly solve a problem
-- retool a software team or software production process
-- coach your product or engineering team for the era of AI-driven software creation
+- build something new
+- build something quickly
+- help your product or engineering team adapt to the era of AI-driven software creation
 
-...reach out to me via LinkedIn.
+...reach out to me on [LinkedIn](https://www.linkedin.com/in/sandover).
+
+&nbsp;
+
+## shipped work
+
+- [superconnect](https://github.com/bitovi/superconnect) (*client project*) — AI-powered code generator tool to create [Figma Code Connect](https://developers.figma.com/docs/code-connect/) mappings.
+- [ergo](https://github.com/sandover/ergo) — a fast, minimal task planner tool for your coding agent to use.
+
 
 &nbsp;
 
@@ -36,7 +46,7 @@ If you want to:
 
 # softmax
 
-[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into to fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other?  We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on pedagogical Python notebooks to shorten the path from cold start to real RL experiment.
+[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other? We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on pedagogical Python notebooks to shorten the path from cold start to real RL experiment.
 
 
 &nbsp;
@@ -110,7 +120,7 @@ On this team, I contributed individually, managed client relationships, defined 
 ---
 # oblong industries :: ibm watson experience centers
 
-The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was educate IBM's customers and constituents about machine learning. These centers illuminated both the reality and potential of machine learning through dynamic, interactive visualizations and experiential setpieces, developed from 2013 to 2020.
+The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was to educate IBM's customers and constituents about machine learning. These centers illuminated both the reality and potential of machine learning through dynamic, interactive visualizations and experiential setpieces, developed from 2013 to 2020.
 
 The Centers were a technology showcase, and featured a variety of environments created by Oblong, including large pixel walls and immersion rooms in different configurations. Human engagement was enabled via touch, spatial pointing devices, voice, proximity, and more.
 
@@ -192,7 +202,7 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 
 "The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. Less than two years after inception, The Wall was deployed for daily public use at O’Hare, JFK, and other airports, beginning in 2006. Some of these systems remained operational for nearly 10 years after their debut.
 
-The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
+The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number of research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
 
 I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
 
@@ -216,7 +226,8 @@ I made core contributions to every part of this new platform, from hardware prot
 # public talks
 
 - [Creative Mornings Los Angeles](https://creativemornings.com/talks/brandon-harvey), 2016
-- South by Southwest, 2017
+- [South by Southwest (SXSW)](https://schedule.sxsw.com/2017/events/PP65572), 2017
+- [Things You Might Not Know About AI (But Should)](https://community.maivencollective.com/c/expert-workshops-discussions/things-you-might-not-know-about-ai-but-should-3ceed328-2390-4cb3-8db5-8d6a46dd7b9a), Maiven Collective, 2025
 
 
 &nbsp;
