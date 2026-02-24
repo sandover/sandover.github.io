@@ -55,3 +55,8 @@ reversepagetitle = true
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sandover"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/sandover"

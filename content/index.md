@@ -13,29 +13,21 @@ toc: true
 
 # strike valley studio :: consulting
 
-I’ve spent my career working every side of the software craft: conceptual invention, UI design, interaction design, frontline software engineering, software architecture and planning, management of software teams, product management, and product strategy.
+I’ve spent my career working every side of the software craft: invention, design, engineering, architecture, team leadership, product management, and strategy.
 
-Large language models are transforming this craft in two key ways.
+AI tightens the loop between intent and execution. Capturing this advantage requires new approaches. I started [Strike Valley Studio](https://www.strikevalley.studio) to help companies build and adapt for this moment.
 
-Firstly, software development accelerates. Software becomes cheaper to build and cheaper to change. Up until now, the high cost of software and the brittleness of software have been bottlenecks. Those bottlenecks will be removed.
-
-Secondly, we can now bake real intelligence **into** software. This redraws the map of what software can actually do -- it lets us create fundamentally new types of solutions.
-
-I started [Strike Valley Studio](https://www.strikevalley.studio) to help companies build for the future of software.
-
-If you want to:
-- build something new
-- build something quickly
-- help your product or engineering team adapt to the era of AI-driven software creation
-
-...reach out to me on [LinkedIn](https://www.linkedin.com/in/sandover).
+If you want to build AI-powered software, rewire workflows for AI, or help your team work differently — [reach out](https://www.linkedin.com/in/sandover).
 
 &nbsp;
 
 ## shipped work
 
+- [plasmite](https://github.com/sandover/plasmite) — interprocess communication via persistent, disk-backed message channels. Local IPC doesn't require a broker or a daemon. Zero-copy memory-mapped reads hit ~600k msg/sec while surviving crashes. Bindings for Rust, Python, Go, Node, and C.
+
+- [ergo](https://github.com/sandover/ergo) — a planning CLI for AI coding agents. Claude Code, Codex, and friends can use ergo to break work into epics and a task graph. Plans are stored as simple, append-only JSONL in your repo. Concurrency-safe, fast, and easy to adopt as a one-liner in AGENTS.md. [~25 stars on GitHub.](https://github.com/sandover/ergo/stargazers)
+
 - [superconnect](https://github.com/bitovi/superconnect) (*client project*) — AI-powered code generator tool to create [Figma Code Connect](https://developers.figma.com/docs/code-connect/) mappings.
-- [ergo](https://github.com/sandover/ergo) — a fast, minimal task planner tool for your coding agent to use.
 
 
 &nbsp;
@@ -46,7 +38,7 @@ If you want to:
 
 # softmax
 
-[SoftMax](https://softmax.com/) is an AI startup doing pioneering research into fundamental problems in Reinforcement Learning (RL) and AI alignment. During my visiting role there, I focused on human learning problems. First, how does the team Softmax learn about AI research, exchange ideas, and learn from each other? We built new tools to support this process better. Second, how will others learn and use the nascent SoftMax platform itself? I started work on pedagogical Python notebooks to shorten the path from cold start to real RL experiment.
+In a visiting role at [SoftMax](https://softmax.com/), an AI startup doing research in Reinforcement Learning and alignment, I focused on human learning problems: how the research team exchanges ideas and learns from each other, and how newcomers get started on the platform. I built internal collaboration tools and pedagogical Python notebooks that shortened the path from cold start to real RL experiment.
 
 
 &nbsp;
@@ -57,11 +49,11 @@ If you want to:
 
 # meta :: supernatural
 
-As a **Product Manager** at Supernatural (a VR fitness app, now owned by Meta) *(2022-2025)*, I helped Supernatural identify, adopt, and succeed with new technology opportunities as they appear up and down the stack.
+**Product Manager** at Supernatural (VR fitness, acquired by Meta) *(2022-2025)*.
 
-On the frontier side, I led a 0 → 1 exploration of an AI-powered Supernatural experience for Meta smart glasses, a category now starting to be called "AI glasses". Instead of the Supernatural app’s traditional pre-recorded workouts, we prototyped a dynamically-generated form of audio coaching that adapts to the user in real time. I co-developed three distinct product visions, created cross-org partnerships, and drove to a first functional prototype in less than a quarter.
+The most interesting work here was a 0 → 1 exploration of AI-powered coaching for Meta smart glasses. Instead of pre-recorded workouts, we prototyped dynamically-generated audio coaching that adapts to the user in real time. Three product visions, cross-org partnerships, first functional prototype in under a quarter.
 
-On the platform side, I led many projects, including foundational support for a signature feature, multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”). I also led compliance efforts for the Washington State "My Health My Data" law, partnering closely with Meta legal to de-risk the product and keep momentum.
+I also led foundational work behind multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”) and drove compliance with Washington State’s “My Health My Data” law in close partnership with Meta legal.
 
 
 ![supernatural](images/supernatural-hero.jpg)
@@ -74,11 +66,11 @@ On the platform side, I led many projects, including foundational support for a 
 ---
 # magnopus :: product engineering
 
-As a **Director of Engineering for Product** at Magnopus *(2020-2022)*, I shaped the US side of the company’s first product team.
+**Director of Engineering for Product** at Magnopus *(2020-2022)*. I built the US side of the company’s first product team, starting in the middle of the pandemic.
 
-Starting in the middle of the pandemic, I hired and internally recruited to assemble an effective new software delivery organization. The goal was not just to ship software (which we did) but to ship a durable, sustainable way of working that was suited to product work, as distinct from project work. The workflows and systems I established helped our various disciplines -- product, design, interaction prototyping, QA -- move quickly, learn from each other, and deliver with rigor. A product of this team was eventually named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/). 
+The goal was not just to ship software (which we did) but to establish a durable way of working suited to product work, as distinct from project work. The workflows I put in place helped product, design, prototyping, and QA move quickly and deliver with rigor. A product of this team was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/).
 
-At Magnopus I was also active in shaping and leading new 0 -> 1 product development processes. Working within the bounds of our technology focus areas, I led collaborative efforts to ideate (grounded in user needs), build (cheaply and cheerfully), learn (and demo) -- and then repeat. It's an iterated game. In this way, we were able to quickly explore a broad opportunity space and validate key ideas.
+I also designed and led a structured product R&D process around the "spatial office" — how to better integrate in-office and remote work. We started with broad cross-functional brainstorming, downselected and matured the strongest ideas, then built. 90 days in, we had bluetooth beacons stashed around the office and a working prototype that detected when people were co-located away from their desks, auto-spawning ephemeral Slack channels so remote colleagues could hail or join them — an experiment in lowering barriers to serendipity. We explored several prototypes this way. None shipped as products, but the process worked and we learned what we needed to.
 
 &nbsp;
 
@@ -87,11 +79,11 @@ At Magnopus I was also active in shaping and leading new 0 -> 1 product developm
 ---
 # oblong industries :: mezzanine
 
-As a **Product Manager for Mezzanine** *(2018-2020)*, I owned the user experience of a groundbreaking immersive meeting product, which allowed distributed teams to connect their spaces and collaborate seamlessly as if in the same room.
+**Product Manager for Mezzanine** *(2018-2020)*, an immersive meeting product that let distributed teams connect their rooms and collaborate as if in the same space.
 
-Mezzanine was a highly flexible digital canvas which let users share many forms and streams of data in any layout, and it integrated with digital whiteboards, analog whiteboards, and a variety of videoconferencing systems. Mezzanine rooms found a market with an extensive list of Fortune 500 customers and featured innovative forms of interaction unique in this product category.
+Mezzanine was a flexible digital canvas — multiple data streams in any layout, integrated with digital and analog whiteboards and a range of videoconferencing systems. It found a market with a long list of Fortune 500 customers and featured forms of interaction unique in this product category.
 
-I have a passion for usability. In addition to making measurable impacts on core product usability and approachability, I drove the vision and rapid delivery (6 months from concept to shipping) of a radically simpler Mezzanine edition. This benefited end users but also enabled a tighter strategic integration with the products of a critical partner.
+I drove measurable improvements to core usability and led a radically simpler Mezzanine edition from concept to shipping in six months. That simpler edition served end users and made Mezzanine a better fit alongside Cisco's videoconferencing endpoints.
 
 {{< vimeo 126761247 >}}
 *This video shows an early version of Mezzanine circa 2015.*
@@ -103,9 +95,9 @@ I have a passion for usability. In addition to making measurable impacts on core
 ---
 # oblong industries :: client solutions
 
-As **Director of Engineering for Oblong's Client Solutions division** *(2010-2018)*, I grew and led an interdisciplinary team of engineers and designers in creating a series of highly complex immersive environments for clients such as IBM, McKinsey, and ESPN. Our skill in crafting interactive spatial experiences at massive scale -- 100 million pixels rendered in realtime -- earned industry recognition, awards, and enduring client relationships. With less than a tenth of company headcount, the group often earned a much higher fraction of company revenue.
+**Director of Engineering, Client Solutions** *(2010-2018)*. I grew and led an interdisciplinary team of engineers and designers who created a series of immersive environments for clients including IBM, McKinsey, and ESPN — interactive spatial experiences at massive scale, 100 million pixels rendered in realtime.
 
-On this team, I contributed individually, managed client relationships, defined technical architecture, and ultimately led the entire group.
+With less than a tenth of company headcount, the group regularly earned a much larger fraction of company revenue. I contributed individually, defined technical architecture, managed client relationships, and ultimately led the entire group.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
@@ -120,11 +112,11 @@ On this team, I contributed individually, managed client relationships, defined 
 ---
 # oblong industries :: ibm watson experience centers
 
-The Client Solutions team's work was the centerpiece of a series of IBM Watson Experience Centers -- located in New York, San Francisco, Cambridge, and Munich -- whose purpose was to educate IBM's customers and constituents about machine learning. These centers illuminated both the reality and potential of machine learning through dynamic, interactive visualizations and experiential setpieces, developed from 2013 to 2020.
+The Client Solutions team's flagship work: a series of IBM Watson Experience Centers in New York, San Francisco, Cambridge, and Munich *(2013-2020)*. IBM used them to educate customers and constituents about machine learning — through dynamic, interactive visualizations and experiential setpieces.
 
-The Centers were a technology showcase, and featured a variety of environments created by Oblong, including large pixel walls and immersion rooms in different configurations. Human engagement was enabled via touch, spatial pointing devices, voice, proximity, and more.
+The centers featured large pixel walls and immersion rooms in various configurations. Interaction happened via touch, spatial pointing devices, voice, and proximity.
 
-These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) with IBM and design partners such as [Local Projects](https://www.localprojects.com/) were prototyped and developed at our warehouse in Los Angeles, crafted with care and precision in C++ and OpenGL.
+These [UX Design Award-winning](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) collaborations with IBM and partners like [Local Projects](https://www.localprojects.com/) were prototyped and developed at our warehouse in Los Angeles, in C++ and OpenGL.
 
 {{< vimeo 410471801 >}} 
 <!-- {{< vimeo 554046018 >}}  -->
@@ -138,9 +130,9 @@ These [UX Design Award-winning collaborations](https://ux-design-awards.com/en/g
 ---
 # oblong industries :: process
 
-Most client work can't be shared here, but these videos give insight into a highly collaborative prototyping and development process, as well as illustrating various technical and design achievements in realtime data visualization, high performance distributed rendering, interaction design, systems integration, and more. 
-
 The team maintained sustainable workloads, low turnover, and a perfect track record of on-time delivery.
+
+Most client work can't be shared, but these videos give a sense of the prototyping process and some of the technical work: realtime data visualization, high-performance distributed rendering, interaction design, and systems integration.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
@@ -173,9 +165,9 @@ The team maintained sustainable workloads, low turnover, and a perfect track rec
 ---
 # oblong industries :: greenhouse sdk
 
-I was one of the principal architects, authors, and maintainers of Greenhouse, a C++ creative coding SDK based on Oblong's g-speak spatial operating platform. Compared to g-speak, Greenhouse aimed to provide more approachable abstractions and faster time-to-joy.
+I was one of the principal architects and maintainers of Greenhouse, a C++ creative coding SDK built on Oblong's g-speak spatial operating platform. Greenhouse gave developers more approachable abstractions and faster time-to-joy than g-speak itself.
 
-Greenhouse came to be relied upon by Oblong's clients, and was also made available to the public at ([internet archive here](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/)). The Client Solutions team adopted it internally for production work in 2013.
+Oblong's clients came to rely on it, and it was [made available to the public](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/) as well. The Client Solutions team adopted it for production work in 2013.
 
 {{< vimeo 553841461 >}} 
 
@@ -188,7 +180,7 @@ Greenhouse came to be relied upon by Oblong's clients, and was also made availab
 ---
 # oblong industries :: saudi aramco
 
-Using Oblong's g-speak software platform, we created an immersive geology visualization and simulation application, controllable via gesture gloves, touchscreens, mobile devices, or web interfaces. This video shows me demonstrating some work in progress, using a miniature version of the real, much larger system which existed in Dhahran, Saudi Arabia. The project ran from 2010 to 2012.
+An immersive geology visualization and simulation application built on Oblong's g-speak platform, controllable via gesture gloves, touchscreens, mobile devices, or web interfaces *(2010-2012)*. This video shows me demonstrating work in progress on a miniature version of the real, much larger system in Dhahran, Saudi Arabia.
 
 {{< vimeo 280249075 >}}
 
@@ -200,11 +192,11 @@ Using Oblong's g-speak software platform, we created an immersive geology visual
 ---
 # accenture :: interactive wall
 
-"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. Less than two years after inception, The Wall was deployed for daily public use at O’Hare, JFK, and other airports, beginning in 2006. Some of these systems remained operational for nearly 10 years after their debut.
+"The Wall" was the earliest multi-touch, high-performance pixel wall to see daily use in public. Deployed at O’Hare, JFK, and other airports beginning in 2006, less than two years after inception. Some of these systems stayed operational for nearly 10 years.
 
-The Wall was developed entirely by a team of three people at the Accenture Technology Labs. It was also the subject of a number of research papers we wrote, some of which are still referenced in HCI literature; and it played a pioneering role in the domain of public interactive technology experiences.
+Three people built the whole thing at the Accenture Technology Labs. We also wrote research papers on it, some still referenced in HCI literature.
 
-I made core contributions to every part of this new platform, from hardware prototyping to patented computer vision algorithms, to physical enclosure design, to designing a 60fps clustered rendering framework (C++/DirectX), to building applications on that framework, and supporting other developers doing the same. 
+I contributed to every layer: hardware prototyping, patented computer vision algorithms, physical enclosure design, a 60fps clustered rendering framework in C++/DirectX, and applications built on top of it.
 
 ![wall](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/ohare_wall_panorama.jpg)
 ![wall 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/wall-image-chad.jpg)
