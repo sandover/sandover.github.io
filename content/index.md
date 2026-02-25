@@ -147,12 +147,12 @@ Most client work can't be shared, but these videos give a sense of the prototypi
 {{< vimeo 553839256 >}}
 {{< vimeo 553839214 >}} 
 <!-- seismo  -->
-{{< vimeo 410015034 >}} 
+<!-- {{< vimeo 410015034 >}}  -->
 <!-- TED talks -->
 {{< vimeo 553867938 >}} 
 <!-- {{< vimeo 554104942 >}} -->
 <!-- botty mc botface -->
-{{< vimeo 553749883 >}} 
+<!-- {{< vimeo 553749883 >}}  -->
 <!-- text flow -->
 <!-- {{< vimeo 552243800 >}} -->
 <!-- McK -->
