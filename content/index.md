@@ -140,7 +140,7 @@ Most client work can't be shared, but these videos give a sense of the prototypi
 <!-- new disco  -->
 <!-- {{< vimeo 553868286 >}}  -->
 <!-- bands -->
-{{< vimeo 554106976 >}}
+<!-- {{< vimeo 554106976 >}} -->
 <!-- flycity  -->
 {{< vimeo 554094766 >}} 
 <!-- brain -->

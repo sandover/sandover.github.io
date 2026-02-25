@@ -2,7 +2,7 @@ name: CI
 on: push
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
         with:
@@ -12,11 +12,11 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.152.2'
+          hugo-version: '0.155.3'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --printI18nWarnings --printPathWarnings --printUnusedTemplates
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
