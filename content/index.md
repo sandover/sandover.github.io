@@ -51,7 +51,7 @@ In a visiting role at [SoftMax](https://softmax.com/), an AI startup doing resea
 
 **Product Manager** at Supernatural (VR fitness, acquired by Meta) *(2022-2025)*.
 
-The most interesting work here was a 0 → 1 exploration of AI-powered coaching for Meta smart glasses. Instead of pre-recorded workouts, we prototyped dynamically-generated audio coaching that adapts to the user in real time. Three product visions, cross-org partnerships, first functional prototype in under a quarter.
+The most interesting work here was a 0 → 1 exploration of AI-powered coaching for Meta smart glasses. Instead of pre-recorded workouts, we prototyped dynamically-generated audio coaching that adapts to the user's workout in real time. In under a quarter we created new cross-org partnerships, delivered three distinct and detailed product visions, and broke ground on the first functional prototype.
 
 I also led foundational work behind multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”) and drove compliance with Washington State’s “My Health My Data” law in close partnership with Meta legal.
 
@@ -68,9 +68,11 @@ I also led foundational work behind multi-player workouts (“[Supernatural Toge
 
 **Director of Engineering for Product** at Magnopus *(2020-2022)*. I built the US side of the company’s first product team, starting in the middle of the pandemic.
 
-The goal was not just to ship software (which we did) but to establish a durable way of working suited to product work, as distinct from project work. The workflows I put in place helped product, design, prototyping, and QA move quickly and deliver with rigor. A product of this team was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/).
+The goal was not just to ship software (which we did — our AR app & platform OKO was named a [Time Best Invention of 2022](https://time.com/collection/best-inventions-2022/6229833/magnopus-connected-spaces/).) but to establish a durable way of working suited to ongoing product development, as distinct from the cadence of client work. The workflows I put in place helped our new cross-functional teams move quickly and deliver with rigor. 
 
-I also designed and led a structured product R&D process around the "spatial office" — how to better integrate in-office and remote work. We started with broad cross-functional brainstorming, downselected and matured the strongest ideas, then built. 90 days in, we had bluetooth beacons stashed around the office and a working prototype that detected when people were co-located away from their desks, auto-spawning ephemeral Slack channels so remote colleagues could hail or join them — an experiment in lowering barriers to serendipity. We explored several prototypes this way. None shipped as products, but the process worked and we learned what we needed to.
+I also designed and led a structured product R&D process around the "spatial office" — how to better integrate in-office and remote work, using spatial awareness. We started with broad cross-functional brainstorming, downselected and matured the strongest ideas, then built in order to learn. Within about 90 days we activated the first prototype, an experiment in lowering barriers to serendipitous collaboration. The system would detect in-office clusters of co-located people and generate a communication channel for them, allowing remote colleagues to hail or join the conversation. 
+
+We explored several prototypes this way. None shipped as products, but the process worked and we learned what we needed to.
 
 &nbsp;
 
@@ -97,7 +99,7 @@ I drove measurable improvements to core usability and led a radically simpler Me
 
 **Director of Engineering, Client Solutions** *(2010-2018)*. I grew and led an interdisciplinary team of engineers and designers who created a series of immersive environments for clients including IBM, McKinsey, and ESPN — interactive spatial experiences at massive scale, 100 million pixels rendered in realtime.
 
-With less than a tenth of company headcount, the group regularly earned a much larger fraction of company revenue. I contributed individually, defined technical architecture, managed client relationships, and ultimately led the entire group.
+With less than a tenth of company headcount, the group regularly earned a much larger fraction of company revenue. I contributed individually, defined technical architecture, managed client relationships, and managed the team.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
 ![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
@@ -130,9 +132,9 @@ These [UX Design Award-winning](https://ux-design-awards.com/en/gewinner/ibm-wat
 ---
 # oblong industries :: process
 
-The team maintained sustainable workloads, low turnover, and a perfect track record of on-time delivery.
+The team maintained sustainable workloads, low turnover, and a track record of on-time delivery.
 
-Most client work can't be shared, but these videos give a sense of the prototyping process and some of the technical work: realtime data visualization, high-performance distributed rendering, interaction design, and systems integration.
+Most of the client work can't be shared, but these videos give a sense of the prototyping process and some of the technical work: realtime data visualization, high-performance distributed rendering, interaction design, and systems integration.
 
 <!-- pixel manifold  -->
 <!-- {{< vimeo 553837077 >}} 
@@ -165,9 +167,9 @@ Most client work can't be shared, but these videos give a sense of the prototypi
 ---
 # oblong industries :: greenhouse sdk
 
-I was one of the principal architects and maintainers of Greenhouse, a C++ creative coding SDK built on Oblong's g-speak spatial operating platform. Greenhouse gave developers more approachable abstractions and faster time-to-joy than g-speak itself.
+I was one a principal architect and maintainer of Greenhouse, a C++ creative coding SDK built atop Oblong's g-speak spatial operating platform. Greenhouse gave developers more approachable abstractions and faster time-to-joy than g-speak itself.
 
-Oblong's clients came to rely on it, and it was [made available to the public](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/) as well. The Client Solutions team adopted it for production work in 2013.
+Oblong's clients came to rely on it, and it was [made available to the public](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/) as well. The Client Solutions team used Greenhouse in production for over 5 years.
 
 {{< vimeo 553841461 >}} 
 
