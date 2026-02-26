@@ -1,0 +1,11 @@
+<!--
+Purpose: Group visual media items into a responsive grid container.
+Key exports: Paired shortcode `media_grid` that renders `.media-grid`.
+Role: Provide a reusable 1-up mobile / 2-up desktop layout wrapper.
+Invariants: Preserve source order and avoid altering child semantics.
+Invariants: Keep layout behavior in CSS, not inline styles.
+Invariants: Support mixed children (figures, embeds) without coupling.
+-->
+<div class="media-grid">
+  {{- .Inner -}}
+</div>

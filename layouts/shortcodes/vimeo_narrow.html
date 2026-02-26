@@ -1,0 +1,28 @@
+<!--
+Purpose: Render Vimeo embeds with optional attached captions in long-form pages.
+Key exports: Shortcode `vimeo_narrow` accepting Vimeo ID (arg 0) + optional class (arg 1).
+Role: Keep video and caption in one semantic figure with constrained width.
+Invariants: Preserve responsive 16:9 behavior and centered layout.
+Invariants: Keep dnt=0 parity with existing site output.
+Invariants: Maintain fullscreen support via iframe `allow` attributes.
+-->
+{{- $videoId := .Get 0 -}}
+{{- $extraClass := "" -}}
+{{- if ge (len .Params) 2 -}}
+  {{- $extraClass = .Get 1 -}}
+{{- end -}}
+<figure class="embed embed--narrow{{ with $extraClass }} {{ . }}{{ end }}">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://player.vimeo.com/video/{{ $videoId }}?dnt=0"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      loading="lazy"
+      title="Vimeo video {{ $videoId }}"
+    ></iframe>
+  </div>
+  {{- if .Inner -}}
+    <figcaption>{{ .Inner | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

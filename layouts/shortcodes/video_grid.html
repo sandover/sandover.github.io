@@ -1,0 +1,11 @@
+<!--
+Purpose: Group media embeds into a responsive multi-column grid.
+Key exports: Paired shortcode `video_grid` wrapping nested media shortcodes.
+Role: Provide a reusable layout container for sections with many videos.
+Invariants: Preserve source order and keep full-width stacking on small screens.
+Invariants: Allow children to define their own semantics (figure, caption, etc.).
+Invariants: Avoid inline styles so visual behavior lives in stylesheet rules.
+-->
+<div class="video-grid">
+  {{- .Inner -}}
+</div>

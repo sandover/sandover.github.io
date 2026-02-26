@@ -49,14 +49,13 @@ In a visiting role at [SoftMax](https://softmax.com/), an AI startup doing resea
 
 # meta :: supernatural
 
+{{< figure src="images/supernatural-hero.jpg" alt="supernatural" class="right small" >}}
+
 **Product Manager** at Supernatural (VR fitness, acquired by Meta) *(2022-2025)*.
 
 The most interesting work here was a 0 → 1 exploration of AI-powered coaching for Meta smart glasses. Instead of pre-recorded workouts, we prototyped dynamically-generated audio coaching that adapts to the user's workout in real time. In under a quarter we created new cross-org partnerships, delivered three distinct and detailed product visions, and broke ground on the first functional prototype.
 
 I also led foundational work behind multi-player workouts (“[Supernatural Together](https://www.youtube.com/watch?v=nPbTulVYctA)”) and drove compliance with Washington State’s “My Health My Data” law in close partnership with Meta legal.
-
-
-![supernatural](images/supernatural-hero.jpg)
 
 &nbsp;
 
@@ -81,14 +80,15 @@ We explored several prototypes this way. None shipped as products, but the proce
 ---
 # oblong industries :: mezzanine
 
+{{< vimeo_narrow 126761247 "right small" >}}
+Early version of Mezzanine circa 2015.
+{{< /vimeo_narrow >}}
+
 **Product Manager for Mezzanine** *(2018-2020)*, an immersive meeting product that let distributed teams connect their rooms and collaborate as if in the same space.
 
 Mezzanine was a flexible digital canvas — multiple data streams in any layout, integrated with digital and analog whiteboards and a range of videoconferencing systems. It found a market with a long list of Fortune 500 customers and featured forms of interaction unique in this product category.
 
 I drove measurable improvements to core usability and led a radically simpler Mezzanine edition from concept to shipping in six months. That simpler edition served end users and made Mezzanine a better fit alongside Cisco's videoconferencing endpoints.
-
-{{< vimeo 126761247 >}}
-*This video shows an early version of Mezzanine circa 2015.*
 
 &nbsp;
 
@@ -102,9 +102,11 @@ I drove measurable improvements to core usability and led a radically simpler Me
 With less than a tenth of company headcount, the group regularly earned a much larger fraction of company revenue. I contributed individually, defined technical architecture, managed client relationships, and managed the team.
 
 <!-- ![warehouse 1](images/warehouse-1.jpg) -->
-![warehouse 1](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg)
+{{< media_grid >}}
+{{< figure src="https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-1.jpg" alt="warehouse 1" class="small" >}}
 <!-- ![warehouse 2](images/warehouse-2.jpg) -->
-![warehouse 2](https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-2.jpg)
+{{< figure src="https://media.githubusercontent.com/media/sandover/sandover.github.io/main/static/images/warehouse-2.jpg" alt="warehouse 2" class="small" >}}
+{{< /media_grid >}}
 
 &nbsp;
 
@@ -114,15 +116,17 @@ With less than a tenth of company headcount, the group regularly earned a much l
 ---
 # oblong industries :: ibm watson experience centers
 
+{{< vimeo_narrow 410471801 "right small" >}}
+IBM-produced promotional video.
+{{< /vimeo_narrow >}}
+
 The Client Solutions team's flagship work: a series of IBM Watson Experience Centers in New York, San Francisco, Cambridge, and Munich *(2013-2020)*. IBM used them to educate customers and constituents about machine learning — through dynamic, interactive visualizations and experiential setpieces.
 
 The centers featured large pixel walls and immersion rooms in various configurations. Interaction happened via touch, spatial pointing devices, voice, and proximity.
 
 These [UX Design Award-winning](https://ux-design-awards.com/en/gewinner/ibm-watson-experience-centers) collaborations with IBM and partners like [Local Projects](https://www.localprojects.com/) were prototyped and developed at our warehouse in Los Angeles, in C++ and OpenGL.
 
-{{< vimeo 410471801 >}} 
-<!-- {{< vimeo 554046018 >}}  -->
-*IBM produced this promotional video about the work.*
+<!-- disabled video: vimeo_narrow 554046018 -->
 
 
 &nbsp;
@@ -137,28 +141,30 @@ The team maintained sustainable workloads, low turnover, and a track record of o
 Most of the client work can't be shared, but these videos give a sense of the prototyping process and some of the technical work: realtime data visualization, high-performance distributed rendering, interaction design, and systems integration.
 
 <!-- pixel manifold  -->
-<!-- {{< vimeo 553837077 >}} 
-{{< vimeo 553837213 >}}  -->
+<!-- disabled video: vimeo_narrow 553837077 -->
+<!-- disabled video: vimeo_narrow 553837213 -->
 <!-- new disco  -->
-<!-- {{< vimeo 553868286 >}}  -->
+<!-- disabled video: vimeo_narrow 553868286 -->
 <!-- bands -->
-<!-- {{< vimeo 554106976 >}} -->
+<!-- disabled video: vimeo_narrow 554106976 -->
+{{< video_grid >}}
 <!-- flycity  -->
-{{< vimeo 554094766 >}} 
+{{< vimeo_narrow 554094766 "small" />}}
 <!-- brain -->
-{{< vimeo 553839256 >}}
-{{< vimeo 553839214 >}} 
+{{< vimeo_narrow 553839256 "small" />}}
+{{< vimeo_narrow 553839214 "small" />}}
 <!-- seismo  -->
-<!-- {{< vimeo 410015034 >}}  -->
+<!-- disabled video: vimeo_narrow 410015034 -->
 <!-- TED talks -->
-{{< vimeo 553867938 >}} 
-<!-- {{< vimeo 554104942 >}} -->
+{{< vimeo_narrow 553867938 "small" />}}
+<!-- disabled video: vimeo_narrow 554104942 -->
 <!-- botty mc botface -->
-<!-- {{< vimeo 553749883 >}}  -->
+<!-- disabled video: vimeo_narrow 553749883 -->
 <!-- text flow -->
-<!-- {{< vimeo 552243800 >}} -->
+<!-- disabled video: vimeo_narrow 552243800 -->
 <!-- McK -->
-{{< vimeo 554158410 >}}
+{{< vimeo_narrow 554158410 "small" />}}
+{{< /video_grid >}}
 
 &nbsp;
 
@@ -171,9 +177,11 @@ I was one a principal architect and maintainer of Greenhouse, a C++ creative cod
 
 Oblong's clients came to rely on it, and it was [made available to the public](https://web.archive.org/web/20140702024803/http://greenhouse.oblong.com/) as well. The Client Solutions team used Greenhouse in production for over 5 years.
 
-{{< vimeo 553841461 >}} 
+{{< video_grid >}}
+{{< vimeo_narrow 553841461 "small" />}}
 
-{{< vimeo 553837636 >}}  
+{{< vimeo_narrow 553837636 "small" />}}
+{{< /video_grid >}}
 
 &nbsp;
 
@@ -182,9 +190,9 @@ Oblong's clients came to rely on it, and it was [made available to the public](h
 ---
 # oblong industries :: saudi aramco
 
-An immersive geology visualization and simulation application built on Oblong's g-speak platform, controllable via gesture gloves, touchscreens, mobile devices, or web interfaces *(2010-2012)*. This video shows me demonstrating work in progress on a miniature version of the real, much larger system in Dhahran, Saudi Arabia.
+{{< vimeo_narrow 280249075 "right small" />}}
 
-{{< vimeo 280249075 >}}
+An immersive geology visualization and simulation application built on Oblong's g-speak platform, controllable via gesture gloves, touchscreens, mobile devices, or web interfaces *(2010-2012)*. This video shows me demonstrating work in progress on a miniature version of the real, much larger system in Dhahran, Saudi Arabia.
 
 &nbsp;
 
